@@ -1,0 +1,2572 @@
+"id","year","sport","medal","country","pays","host"
+31666,1924,"biathlon","gold","SUI","Switzerland",FALSE
+31666,1924,"biathlon","silver","FIN","Finland",FALSE
+31666,1924,"biathlon","bronze","FRA","France",TRUE
+31666,1960,"biathlon","gold","SWE","Sweden",FALSE
+31666,1960,"biathlon","silver","FIN","Finland",FALSE
+31666,1960,"biathlon","bronze","URS","USSR",FALSE
+31666,1964,"biathlon","gold","URS","USSR",FALSE
+31666,1964,"biathlon","silver","URS","USSR",FALSE
+31666,1964,"biathlon","bronze","NOR","Norway",FALSE
+31666,1968,"biathlon","gold","NOR","Norway",FALSE
+31666,1968,"biathlon","silver","URS","USSR",FALSE
+31666,1968,"biathlon","bronze","URS","USSR",FALSE
+31666,1968,"biathlon","gold","URS","USSR",FALSE
+31666,1968,"biathlon","silver","NOR","Norway",FALSE
+31666,1968,"biathlon","bronze","SWE","Sweden",FALSE
+31666,1972,"biathlon","gold","NOR","Norway",FALSE
+31666,1972,"biathlon","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31666,1972,"biathlon","bronze","SWE","Sweden",FALSE
+31666,1972,"biathlon","gold","URS","USSR",FALSE
+31666,1972,"biathlon","silver","FIN","Finland",FALSE
+31666,1972,"biathlon","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31666,1976,"biathlon","gold","URS","USSR",FALSE
+31666,1976,"biathlon","silver","FIN","Finland",FALSE
+31666,1976,"biathlon","bronze","URS","USSR",FALSE
+31666,1976,"biathlon","gold","URS","USSR",FALSE
+31666,1976,"biathlon","silver","FIN","Finland",FALSE
+31666,1976,"biathlon","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31666,1980,"biathlon","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31666,1980,"biathlon","silver","URS","USSR",FALSE
+31666,1980,"biathlon","bronze","URS","USSR",FALSE
+31666,1980,"biathlon","gold","URS","USSR",FALSE
+31666,1980,"biathlon","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31666,1980,"biathlon","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31666,1980,"biathlon","gold","URS","USSR",FALSE
+31666,1980,"biathlon","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31666,1980,"biathlon","bronze","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31666,1984,"biathlon","gold","NOR","Norway",FALSE
+31666,1984,"biathlon","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31666,1984,"biathlon","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31666,1984,"biathlon","gold","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31666,1984,"biathlon","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31666,1984,"biathlon","bronze","NOR","Norway",FALSE
+31666,1984,"biathlon","gold","URS","USSR",FALSE
+31666,1984,"biathlon","silver","NOR","Norway",FALSE
+31666,1984,"biathlon","bronze","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31666,1988,"biathlon","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31666,1988,"biathlon","silver","URS","USSR",FALSE
+31666,1988,"biathlon","bronze","URS","USSR",FALSE
+31666,1988,"biathlon","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31666,1988,"biathlon","silver","URS","USSR",FALSE
+31666,1988,"biathlon","bronze","ITA","Italy",FALSE
+31666,1988,"biathlon","gold","URS","USSR",FALSE
+31666,1988,"biathlon","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31666,1988,"biathlon","bronze","ITA","Italy",FALSE
+31666,1992,"biathlon","gold","GER","Germany",FALSE
+31666,1992,"biathlon","silver","GER","Germany",FALSE
+31666,1992,"biathlon","bronze","FIN","Finland",FALSE
+31666,1992,"biathlon","gold","EUN","Unified Team (ex USSR)",FALSE
+31666,1992,"biathlon","silver","GER","Germany",FALSE
+31666,1992,"biathlon","bronze","SWE","Sweden",FALSE
+31666,1992,"biathlon","gold","GER","Germany",FALSE
+31666,1992,"biathlon","silver","EUN","Unified Team (ex USSR)",FALSE
+31666,1992,"biathlon","bronze","SWE","Sweden",FALSE
+31666,1992,"biathlon","gold","EUN","Unified Team (ex USSR)",FALSE
+31666,1992,"biathlon","silver","GER","Germany",FALSE
+31666,1992,"biathlon","bronze","EUN","Unified Team (ex USSR)",FALSE
+31666,1992,"biathlon","gold","GER","Germany",FALSE
+31666,1992,"biathlon","silver","EUN","Unified Team (ex USSR)",FALSE
+31666,1992,"biathlon","bronze","CAN","Canada",FALSE
+31666,1992,"biathlon","gold","FRA","France",TRUE
+31666,1992,"biathlon","silver","GER","Germany",FALSE
+31666,1992,"biathlon","bronze","EUN","Unified Team (ex USSR)",FALSE
+31666,1994,"biathlon","gold","RUS","Russian Federation",FALSE
+31666,1994,"biathlon","silver","GER","Germany",FALSE
+31666,1994,"biathlon","bronze","RUS","Russian Federation",FALSE
+31666,1994,"biathlon","gold","RUS","Russian Federation",FALSE
+31666,1994,"biathlon","silver","GER","Germany",FALSE
+31666,1994,"biathlon","bronze","GER","Germany",FALSE
+31666,1994,"biathlon","gold","GER","Germany",FALSE
+31666,1994,"biathlon","silver","RUS","Russian Federation",FALSE
+31666,1994,"biathlon","bronze","FRA","France",FALSE
+31666,1994,"biathlon","gold","CAN","Canada",FALSE
+31666,1994,"biathlon","silver","BLR","Belarus",FALSE
+31666,1994,"biathlon","bronze","UKR","Ukraine",FALSE
+31666,1994,"biathlon","gold","CAN","Canada",FALSE
+31666,1994,"biathlon","silver","FRA","France",FALSE
+31666,1994,"biathlon","bronze","GER","Germany",FALSE
+31666,1994,"biathlon","gold","RUS","Russian Federation",FALSE
+31666,1994,"biathlon","silver","GER","Germany",FALSE
+31666,1994,"biathlon","bronze","FRA","France",FALSE
+31666,1998,"biathlon","gold","NOR","Norway",FALSE
+31666,1998,"biathlon","silver","NOR","Norway",FALSE
+31666,1998,"biathlon","bronze","FIN","Finland",FALSE
+31666,1998,"biathlon","gold","NOR","Norway",FALSE
+31666,1998,"biathlon","silver","ITA","Italy",FALSE
+31666,1998,"biathlon","bronze","BLR","Belarus",FALSE
+31666,1998,"biathlon","gold","GER","Germany",FALSE
+31666,1998,"biathlon","silver","NOR","Norway",FALSE
+31666,1998,"biathlon","bronze","RUS","Russian Federation",FALSE
+31666,1998,"biathlon","gold","RUS","Russian Federation",FALSE
+31666,1998,"biathlon","silver","GER","Germany",FALSE
+31666,1998,"biathlon","bronze","GER","Germany",FALSE
+31666,1998,"biathlon","gold","BUL","Bulgaria",FALSE
+31666,1998,"biathlon","silver","UKR","Ukraine",FALSE
+31666,1998,"biathlon","bronze","GER","Germany",FALSE
+31666,1998,"biathlon","gold","GER","Germany",FALSE
+31666,1998,"biathlon","silver","RUS","Russian Federation",FALSE
+31666,1998,"biathlon","bronze","NOR","Norway",FALSE
+31666,2002,"biathlon","gold","NOR","Norway",FALSE
+31666,2002,"biathlon","silver","GER","Germany",FALSE
+31666,2002,"biathlon","bronze","AUT","Austria",FALSE
+31666,2002,"biathlon","gold","NOR","Norway",FALSE
+31666,2002,"biathlon","silver","GER","Germany",FALSE
+31666,2002,"biathlon","bronze","RUS","Russian Federation",FALSE
+31666,2002,"biathlon","gold","NOR","Norway",FALSE
+31666,2002,"biathlon","silver","GER","Germany",FALSE
+31666,2002,"biathlon","bronze","FRA","France",FALSE
+31666,2002,"biathlon","gold","NOR","Norway",FALSE
+31666,2002,"biathlon","silver","FRA","France",FALSE
+31666,2002,"biathlon","bronze","GER","Germany",FALSE
+31666,2002,"biathlon","gold","GER","Germany",FALSE
+31666,2002,"biathlon","silver","GER","Germany",FALSE
+31666,2002,"biathlon","bronze","SWE","Sweden",FALSE
+31666,2002,"biathlon","gold","GER","Germany",FALSE
+31666,2002,"biathlon","silver","NOR","Norway",FALSE
+31666,2002,"biathlon","bronze","SWE","Sweden",FALSE
+31666,2002,"biathlon","gold","GER","Germany",FALSE
+31666,2002,"biathlon","silver","NOR","Norway",FALSE
+31666,2002,"biathlon","bronze","RUS","Russian Federation",FALSE
+31666,2002,"biathlon","gold","RUS","Russian Federation",FALSE
+31666,2002,"biathlon","silver","GER","Germany",FALSE
+31666,2002,"biathlon","bronze","BUL","Bulgaria",FALSE
+31666,2006,"biathlon","gold","GER","Germany",FALSE
+31666,2006,"biathlon","silver","NOR","Norway",FALSE
+31666,2006,"biathlon","bronze","NOR","Norway",FALSE
+31666,2006,"biathlon","gold","GER","Germany",FALSE
+31666,2006,"biathlon","silver","NOR","Norway",FALSE
+31666,2006,"biathlon","bronze","NOR","Norway",FALSE
+31666,2006,"biathlon","gold","GER","Germany",FALSE
+31666,2006,"biathlon","silver","RUS","Russian Federation",FALSE
+31666,2006,"biathlon","bronze","FRA","France",FALSE
+31666,2006,"biathlon","gold","FRA","France",FALSE
+31666,2006,"biathlon","silver","NOR","Norway",FALSE
+31666,2006,"biathlon","bronze","GER","Germany",FALSE
+31666,2006,"biathlon","gold","GER","Germany",FALSE
+31666,2006,"biathlon","silver","POL","Poland",FALSE
+31666,2006,"biathlon","bronze","NOR","Norway",FALSE
+31666,2006,"biathlon","gold","FRA","France",FALSE
+31666,2006,"biathlon","silver","SWE","Sweden",FALSE
+31666,2006,"biathlon","bronze","UKR","Ukraine",FALSE
+31666,2006,"biathlon","gold","RUS","Russian Federation",FALSE
+31666,2006,"biathlon","silver","GER","Germany",FALSE
+31666,2006,"biathlon","bronze","RUS","Russian Federation",FALSE
+31666,2006,"biathlon","gold","RUS","Russian Federation",FALSE
+31666,2006,"biathlon","silver","GER","Germany",FALSE
+31666,2006,"biathlon","bronze","FRA","France",FALSE
+31666,2006,"biathlon","gold","GER","Germany",FALSE
+31666,2006,"biathlon","silver","GER","Germany",FALSE
+31666,2006,"biathlon","bronze","RUS","Russian Federation",FALSE
+31666,2006,"biathlon","gold","SWE","Sweden",FALSE
+31666,2006,"biathlon","silver","GER","Germany",FALSE
+31666,2006,"biathlon","bronze","GER","Germany",FALSE
+31666,2010,"biathlon","gold","FRA","France",FALSE
+31666,2010,"biathlon","silver","NOR","Norway",FALSE
+31666,2010,"biathlon","bronze","CRO","Croatia",FALSE
+31666,2010,"biathlon","gold","NOR","Norway",FALSE
+31666,2010,"biathlon","silver","NOR","Norway",FALSE
+31666,2010,"biathlon","bronze","BLR","Belarus",FALSE
+31666,2010,"biathlon","gold","NOR","Norway",FALSE
+31666,2010,"biathlon","silver","AUT","Austria",FALSE
+31666,2010,"biathlon","bronze","RUS","Russian Federation",FALSE
+31666,2010,"biathlon","gold","SWE","Sweden",FALSE
+31666,2010,"biathlon","silver","AUT","Austria",FALSE
+31666,2010,"biathlon","bronze","FRA","France",FALSE
+31666,2010,"biathlon","gold","RUS","Russian Federation",FALSE
+31666,2010,"biathlon","silver","FRA","France",FALSE
+31666,2010,"biathlon","bronze","SVK","Slovakia",FALSE
+31666,2010,"biathlon","gold","SVK","Slovakia",FALSE
+31666,2010,"biathlon","silver","GER","Germany",FALSE
+31666,2010,"biathlon","bronze","FRA","France",FALSE
+31666,2010,"biathlon","gold","NOR","Norway",FALSE
+31666,2010,"biathlon","silver","KAZ","Kazakhstan",FALSE
+31666,2010,"biathlon","bronze","BLR","Belarus",FALSE
+31666,2010,"biathlon","gold","RUS","Russian Federation",FALSE
+31666,2010,"biathlon","silver","FRA","France",FALSE
+31666,2010,"biathlon","bronze","GER","Germany",FALSE
+31666,2010,"biathlon","gold","GER","Germany",FALSE
+31666,2010,"biathlon","silver","SVK","Slovakia",FALSE
+31666,2010,"biathlon","bronze","FRA","France",FALSE
+31666,2010,"biathlon","gold","GER","Germany",FALSE
+31666,2010,"biathlon","silver","RUS","Russian Federation",FALSE
+31666,2010,"biathlon","bronze","GER","Germany",FALSE
+31688,1924,"bobsleigh","gold","SUI","Switzerland",FALSE
+31688,1924,"bobsleigh","silver","GBR","Great Britain",FALSE
+31688,1924,"bobsleigh","bronze","BEL","Belgium",FALSE
+31688,1928,"bobsleigh","gold","USA","United States of America",FALSE
+31688,1928,"bobsleigh","silver","USA","United States of America",FALSE
+31688,1928,"bobsleigh","bronze","GER","Germany",FALSE
+31688,1932,"bobsleigh","gold","USA","United States of America",TRUE
+31688,1932,"bobsleigh","silver","SUI","Switzerland",FALSE
+31688,1932,"bobsleigh","bronze","USA","United States of America",TRUE
+31688,1932,"bobsleigh","gold","USA","United States of America",TRUE
+31688,1932,"bobsleigh","silver","USA","United States of America",TRUE
+31688,1932,"bobsleigh","bronze","GER","Germany",FALSE
+31688,1936,"bobsleigh","gold","USA","United States of America",FALSE
+31688,1936,"bobsleigh","silver","SUI","Switzerland",FALSE
+31688,1936,"bobsleigh","bronze","USA","United States of America",FALSE
+31688,1936,"bobsleigh","gold","SUI","Switzerland",FALSE
+31688,1936,"bobsleigh","silver","SUI","Switzerland",FALSE
+31688,1936,"bobsleigh","bronze","GBR","Great Britain",FALSE
+31688,1948,"bobsleigh","gold","SUI","Switzerland",TRUE
+31688,1948,"bobsleigh","silver","SUI","Switzerland",TRUE
+31688,1948,"bobsleigh","bronze","USA","United States of America",FALSE
+31688,1948,"bobsleigh","gold","USA","United States of America",FALSE
+31688,1948,"bobsleigh","silver","BEL","Belgium",FALSE
+31688,1948,"bobsleigh","bronze","USA","United States of America",FALSE
+31688,1952,"bobsleigh","gold","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31688,1952,"bobsleigh","silver","USA","United States of America",FALSE
+31688,1952,"bobsleigh","bronze","SUI","Switzerland",FALSE
+31688,1952,"bobsleigh","gold","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31688,1952,"bobsleigh","silver","USA","United States of America",FALSE
+31688,1952,"bobsleigh","bronze","SUI","Switzerland",FALSE
+31688,1956,"bobsleigh","gold","ITA","Italy",TRUE
+31688,1956,"bobsleigh","silver","ITA","Italy",TRUE
+31688,1956,"bobsleigh","bronze","SUI","Switzerland",FALSE
+31688,1956,"bobsleigh","gold","SUI","Switzerland",FALSE
+31688,1956,"bobsleigh","silver","ITA","Italy",TRUE
+31688,1956,"bobsleigh","bronze","USA","United States of America",FALSE
+31688,1964,"bobsleigh","gold","GBR","Great Britain",FALSE
+31688,1964,"bobsleigh","silver","ITA","Italy",FALSE
+31688,1964,"bobsleigh","bronze","ITA","Italy",FALSE
+31688,1964,"bobsleigh","gold","CAN","Canada",FALSE
+31688,1964,"bobsleigh","silver","AUT","Austria",TRUE
+31688,1964,"bobsleigh","bronze","ITA","Italy",FALSE
+31688,1968,"bobsleigh","gold","ITA","Italy",FALSE
+31688,1968,"bobsleigh","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31688,1968,"bobsleigh","bronze","ROU","Romania",FALSE
+31688,1968,"bobsleigh","gold","ITA","Italy",FALSE
+31688,1968,"bobsleigh","silver","AUT","Austria",FALSE
+31688,1968,"bobsleigh","bronze","SUI","Switzerland",FALSE
+31688,1972,"bobsleigh","gold","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31688,1972,"bobsleigh","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31688,1972,"bobsleigh","bronze","SUI","Switzerland",FALSE
+31688,1972,"bobsleigh","gold","SUI","Switzerland",FALSE
+31688,1972,"bobsleigh","silver","ITA","Italy",FALSE
+31688,1972,"bobsleigh","bronze","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31688,1976,"bobsleigh","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31688,1976,"bobsleigh","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31688,1976,"bobsleigh","bronze","SUI","Switzerland",FALSE
+31688,1976,"bobsleigh","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31688,1976,"bobsleigh","silver","SUI","Switzerland",FALSE
+31688,1976,"bobsleigh","bronze","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31688,1980,"bobsleigh","gold","SUI","Switzerland",FALSE
+31688,1980,"bobsleigh","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31688,1980,"bobsleigh","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31688,1980,"bobsleigh","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31688,1980,"bobsleigh","silver","SUI","Switzerland",FALSE
+31688,1980,"bobsleigh","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31688,1984,"bobsleigh","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31688,1984,"bobsleigh","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31688,1984,"bobsleigh","bronze","URS","USSR",FALSE
+31688,1984,"bobsleigh","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31688,1984,"bobsleigh","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31688,1984,"bobsleigh","bronze","SUI","Switzerland",FALSE
+31688,1988,"bobsleigh","gold","URS","USSR",FALSE
+31688,1988,"bobsleigh","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31688,1988,"bobsleigh","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31688,1988,"bobsleigh","gold","SUI","Switzerland",FALSE
+31688,1988,"bobsleigh","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31688,1988,"bobsleigh","bronze","URS","USSR",FALSE
+31688,1992,"bobsleigh","gold","SUI","Switzerland",FALSE
+31688,1992,"bobsleigh","silver","GER","Germany",FALSE
+31688,1992,"bobsleigh","bronze","GER","Germany",FALSE
+31688,1992,"bobsleigh","gold","AUT","Austria",FALSE
+31688,1992,"bobsleigh","silver","GER","Germany",FALSE
+31688,1992,"bobsleigh","bronze","SUI","Switzerland",FALSE
+31688,1994,"bobsleigh","gold","SUI","Switzerland",FALSE
+31688,1994,"bobsleigh","silver","SUI","Switzerland",FALSE
+31688,1994,"bobsleigh","bronze","ITA","Italy",FALSE
+31688,1994,"bobsleigh","gold","GER","Germany",FALSE
+31688,1994,"bobsleigh","silver","SUI","Switzerland",FALSE
+31688,1994,"bobsleigh","bronze","GER","Germany",FALSE
+31688,1998,"bobsleigh","gold","ITA","Italy",FALSE
+31688,1998,"bobsleigh","silver","CAN","Canada",FALSE
+31688,1998,"bobsleigh","bronze","GER","Germany",FALSE
+31688,1998,"bobsleigh","gold","GER","Germany",FALSE
+31688,1998,"bobsleigh","silver","SUI","Switzerland",FALSE
+31688,1998,"bobsleigh","bronze","GBR","Great Britain",FALSE
+31688,1998,"bobsleigh","bronze","FRA","France",FALSE
+31688,2002,"bobsleigh","gold","GER","Germany",FALSE
+31688,2002,"bobsleigh","silver","SUI","Switzerland",FALSE
+31688,2002,"bobsleigh","bronze","SUI","Switzerland",FALSE
+31688,2002,"bobsleigh","gold","GER","Germany",FALSE
+31688,2002,"bobsleigh","silver","USA","United States of America",TRUE
+31688,2002,"bobsleigh","bronze","USA","United States of America",TRUE
+31688,2002,"bobsleigh","gold","USA","United States of America",TRUE
+31688,2002,"bobsleigh","silver","GER","Germany",FALSE
+31688,2002,"bobsleigh","bronze","GER","Germany",FALSE
+31688,2006,"bobsleigh","gold","GER","Germany",FALSE
+31688,2006,"bobsleigh","silver","CAN","Canada",FALSE
+31688,2006,"bobsleigh","bronze","SUI","Switzerland",FALSE
+31688,2006,"bobsleigh","gold","GER","Germany",FALSE
+31688,2006,"bobsleigh","silver","RUS","Russian Federation",FALSE
+31688,2006,"bobsleigh","bronze","SUI","Switzerland",FALSE
+31688,2006,"bobsleigh","gold","GER","Germany",FALSE
+31688,2006,"bobsleigh","silver","USA","United States of America",FALSE
+31688,2006,"bobsleigh","bronze","ITA","Italy",TRUE
+31688,2010,"bobsleigh","gold","GER","Germany",FALSE
+31688,2010,"bobsleigh","silver","GER","Germany",FALSE
+31688,2010,"bobsleigh","bronze","RUS","Russian Federation",FALSE
+31688,2010,"bobsleigh","gold","USA","United States of America",FALSE
+31688,2010,"bobsleigh","silver","GER","Germany",FALSE
+31688,2010,"bobsleigh","bronze","CAN","Canada",TRUE
+31688,2010,"bobsleigh","gold","CAN","Canada",TRUE
+31688,2010,"bobsleigh","silver","CAN","Canada",TRUE
+31688,2010,"bobsleigh","bronze","USA","United States of America",FALSE
+31872,1924,"cross country","gold","NOR","Norway",FALSE
+31872,1924,"cross country","silver","NOR","Norway",FALSE
+31872,1924,"cross country","bronze","FIN","Finland",FALSE
+31872,1924,"cross country","gold","NOR","Norway",FALSE
+31872,1924,"cross country","silver","NOR","Norway",FALSE
+31872,1924,"cross country","bronze","NOR","Norway",FALSE
+31872,1928,"cross country","gold","NOR","Norway",FALSE
+31872,1928,"cross country","silver","NOR","Norway",FALSE
+31872,1928,"cross country","bronze","NOR","Norway",FALSE
+31872,1928,"cross country","gold","SWE","Sweden",FALSE
+31872,1928,"cross country","silver","SWE","Sweden",FALSE
+31872,1928,"cross country","bronze","SWE","Sweden",FALSE
+31872,1932,"cross country","gold","SWE","Sweden",FALSE
+31872,1932,"cross country","silver","SWE","Sweden",FALSE
+31872,1932,"cross country","bronze","FIN","Finland",FALSE
+31872,1932,"cross country","gold","FIN","Finland",FALSE
+31872,1932,"cross country","silver","FIN","Finland",FALSE
+31872,1932,"cross country","bronze","NOR","Norway",FALSE
+31872,1936,"cross country","gold","SWE","Sweden",FALSE
+31872,1936,"cross country","silver","NOR","Norway",FALSE
+31872,1936,"cross country","bronze","FIN","Finland",FALSE
+31872,1936,"cross country","gold","SWE","Sweden",FALSE
+31872,1936,"cross country","silver","SWE","Sweden",FALSE
+31872,1936,"cross country","bronze","SWE","Sweden",FALSE
+31872,1936,"cross country","gold","FIN","Finland",FALSE
+31872,1936,"cross country","silver","NOR","Norway",FALSE
+31872,1936,"cross country","bronze","SWE","Sweden",FALSE
+31872,1948,"cross country","gold","SWE","Sweden",FALSE
+31872,1948,"cross country","silver","SWE","Sweden",FALSE
+31872,1948,"cross country","bronze","SWE","Sweden",FALSE
+31872,1948,"cross country","gold","SWE","Sweden",FALSE
+31872,1948,"cross country","silver","SWE","Sweden",FALSE
+31872,1948,"cross country","bronze","FIN","Finland",FALSE
+31872,1948,"cross country","gold","SWE","Sweden",FALSE
+31872,1948,"cross country","silver","FIN","Finland",FALSE
+31872,1948,"cross country","bronze","NOR","Norway",FALSE
+31872,1952,"cross country","gold","NOR","Norway",TRUE
+31872,1952,"cross country","silver","FIN","Finland",FALSE
+31872,1952,"cross country","bronze","FIN","Finland",FALSE
+31872,1952,"cross country","gold","FIN","Finland",FALSE
+31872,1952,"cross country","silver","FIN","Finland",FALSE
+31872,1952,"cross country","bronze","NOR","Norway",TRUE
+31872,1952,"cross country","gold","FIN","Finland",FALSE
+31872,1952,"cross country","silver","NOR","Norway",TRUE
+31872,1952,"cross country","bronze","SWE","Sweden",FALSE
+31872,1952,"cross country","gold","FIN","Finland",FALSE
+31872,1952,"cross country","silver","FIN","Finland",FALSE
+31872,1952,"cross country","bronze","FIN","Finland",FALSE
+31872,1956,"cross country","gold","NOR","Norway",FALSE
+31872,1956,"cross country","silver","SWE","Sweden",FALSE
+31872,1956,"cross country","bronze","URS","USSR",FALSE
+31872,1956,"cross country","gold","SWE","Sweden",FALSE
+31872,1956,"cross country","silver","FIN","Finland",FALSE
+31872,1956,"cross country","bronze","URS","USSR",FALSE
+31872,1956,"cross country","gold","URS","USSR",FALSE
+31872,1956,"cross country","silver","FIN","Finland",FALSE
+31872,1956,"cross country","bronze","SWE","Sweden",FALSE
+31872,1956,"cross country","gold","FIN","Finland",FALSE
+31872,1956,"cross country","silver","SWE","Sweden",FALSE
+31872,1956,"cross country","bronze","URS","USSR",FALSE
+31872,1956,"cross country","gold","URS","USSR",FALSE
+31872,1956,"cross country","silver","URS","USSR",FALSE
+31872,1956,"cross country","bronze","SWE","Sweden",FALSE
+31872,1956,"cross country","gold","FIN","Finland",FALSE
+31872,1956,"cross country","silver","URS","USSR",FALSE
+31872,1956,"cross country","bronze","SWE","Sweden",FALSE
+31872,1960,"cross country","gold","NOR","Norway",FALSE
+31872,1960,"cross country","silver","SWE","Sweden",FALSE
+31872,1960,"cross country","bronze","FIN","Finland",FALSE
+31872,1960,"cross country","gold","FIN","Finland",FALSE
+31872,1960,"cross country","silver","FIN","Finland",FALSE
+31872,1960,"cross country","bronze","SWE","Sweden",FALSE
+31872,1960,"cross country","gold","FIN","Finland",FALSE
+31872,1960,"cross country","silver","NOR","Norway",FALSE
+31872,1960,"cross country","bronze","URS","USSR",FALSE
+31872,1960,"cross country","gold","SWE","Sweden",FALSE
+31872,1960,"cross country","silver","SWE","Sweden",FALSE
+31872,1960,"cross country","bronze","URS","USSR",FALSE
+31872,1960,"cross country","gold","URS","USSR",FALSE
+31872,1960,"cross country","silver","URS","USSR",FALSE
+31872,1960,"cross country","bronze","URS","USSR",FALSE
+31872,1960,"cross country","gold","SWE","Sweden",FALSE
+31872,1960,"cross country","silver","URS","USSR",FALSE
+31872,1960,"cross country","bronze","FIN","Finland",FALSE
+31872,1964,"cross country","gold","FIN","Finland",FALSE
+31872,1964,"cross country","silver","NOR","Norway",FALSE
+31872,1964,"cross country","bronze","SWE","Sweden",FALSE
+31872,1964,"cross country","gold","SWE","Sweden",FALSE
+31872,1964,"cross country","silver","SWE","Sweden",FALSE
+31872,1964,"cross country","bronze","FIN","Finland",FALSE
+31872,1964,"cross country","gold","SWE","Sweden",FALSE
+31872,1964,"cross country","silver","FIN","Finland",FALSE
+31872,1964,"cross country","bronze","URS","USSR",FALSE
+31872,1964,"cross country","gold","FIN","Finland",FALSE
+31872,1964,"cross country","silver","NOR","Norway",FALSE
+31872,1964,"cross country","bronze","URS","USSR",FALSE
+31872,1964,"cross country","gold","URS","USSR",FALSE
+31872,1964,"cross country","silver","FIN","Finland",FALSE
+31872,1964,"cross country","bronze","URS","USSR",FALSE
+31872,1964,"cross country","gold","URS","USSR",FALSE
+31872,1964,"cross country","silver","URS","USSR",FALSE
+31872,1964,"cross country","bronze","URS","USSR",FALSE
+31872,1964,"cross country","gold","URS","USSR",FALSE
+31872,1964,"cross country","silver","SWE","Sweden",FALSE
+31872,1964,"cross country","bronze","FIN","Finland",FALSE
+31872,1968,"cross country","gold","NOR","Norway",FALSE
+31872,1968,"cross country","silver","FIN","Finland",FALSE
+31872,1968,"cross country","bronze","SWE","Sweden",FALSE
+31872,1968,"cross country","gold","NOR","Norway",FALSE
+31872,1968,"cross country","silver","URS","USSR",FALSE
+31872,1968,"cross country","bronze","SUI","Switzerland",FALSE
+31872,1968,"cross country","gold","NOR","Norway",FALSE
+31872,1968,"cross country","silver","SWE","Sweden",FALSE
+31872,1968,"cross country","bronze","FIN","Finland",FALSE
+31872,1968,"cross country","gold","ITA","Italy",FALSE
+31872,1968,"cross country","silver","NOR","Norway",FALSE
+31872,1968,"cross country","bronze","FIN","Finland",FALSE
+31872,1968,"cross country","gold","SWE","Sweden",FALSE
+31872,1968,"cross country","silver","URS","USSR",FALSE
+31872,1968,"cross country","bronze","URS","USSR",FALSE
+31872,1968,"cross country","gold","SWE","Sweden",FALSE
+31872,1968,"cross country","silver","NOR","Norway",FALSE
+31872,1968,"cross country","bronze","NOR","Norway",FALSE
+31872,1968,"cross country","gold","NOR","Norway",FALSE
+31872,1968,"cross country","silver","SWE","Sweden",FALSE
+31872,1968,"cross country","bronze","URS","USSR",FALSE
+31872,1972,"cross country","gold","SWE","Sweden",FALSE
+31872,1972,"cross country","silver","URS","USSR",FALSE
+31872,1972,"cross country","bronze","NOR","Norway",FALSE
+31872,1972,"cross country","gold","NOR","Norway",FALSE
+31872,1972,"cross country","silver","NOR","Norway",FALSE
+31872,1972,"cross country","bronze","URS","USSR",FALSE
+31872,1972,"cross country","gold","URS","USSR",FALSE
+31872,1972,"cross country","silver","NOR","Norway",FALSE
+31872,1972,"cross country","bronze","SUI","Switzerland",FALSE
+31872,1972,"cross country","gold","URS","USSR",FALSE
+31872,1972,"cross country","silver","NOR","Norway",FALSE
+31872,1972,"cross country","bronze","NOR","Norway",FALSE
+31872,1972,"cross country","gold","URS","USSR",FALSE
+31872,1972,"cross country","silver","FIN","Finland",FALSE
+31872,1972,"cross country","bronze","TCH","Czechoslovakia",FALSE
+31872,1972,"cross country","gold","URS","USSR",FALSE
+31872,1972,"cross country","silver","URS","USSR",FALSE
+31872,1972,"cross country","bronze","FIN","Finland",FALSE
+31872,1972,"cross country","gold","URS","USSR",FALSE
+31872,1972,"cross country","silver","FIN","Finland",FALSE
+31872,1972,"cross country","bronze","NOR","Norway",FALSE
+31872,1976,"cross country","gold","URS","USSR",FALSE
+31872,1976,"cross country","silver","URS","USSR",FALSE
+31872,1976,"cross country","bronze","FIN","Finland",FALSE
+31872,1976,"cross country","gold","NOR","Norway",FALSE
+31872,1976,"cross country","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31872,1976,"cross country","bronze","SWE","Sweden",FALSE
+31872,1976,"cross country","gold","FIN","Finland",FALSE
+31872,1976,"cross country","silver","NOR","Norway",FALSE
+31872,1976,"cross country","bronze","URS","USSR",FALSE
+31872,1976,"cross country","gold","URS","USSR",FALSE
+31872,1976,"cross country","silver","USA","United States of America",FALSE
+31872,1976,"cross country","bronze","URS","USSR",FALSE
+31872,1976,"cross country","gold","FIN","Finland",FALSE
+31872,1976,"cross country","silver","URS","USSR",FALSE
+31872,1976,"cross country","bronze","URS","USSR",FALSE
+31872,1976,"cross country","gold","URS","USSR",FALSE
+31872,1976,"cross country","silver","FIN","Finland",FALSE
+31872,1976,"cross country","bronze","URS","USSR",FALSE
+31872,1976,"cross country","gold","URS","USSR",FALSE
+31872,1976,"cross country","silver","FIN","Finland",FALSE
+31872,1976,"cross country","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31872,1980,"cross country","gold","SWE","Sweden",FALSE
+31872,1980,"cross country","silver","FIN","Finland",FALSE
+31872,1980,"cross country","bronze","NOR","Norway",FALSE
+31872,1980,"cross country","gold","URS","USSR",FALSE
+31872,1980,"cross country","silver","FIN","Finland",FALSE
+31872,1980,"cross country","bronze","URS","USSR",FALSE
+31872,1980,"cross country","gold","URS","USSR",FALSE
+31872,1980,"cross country","silver","NOR","Norway",FALSE
+31872,1980,"cross country","bronze","FIN","Finland",FALSE
+31872,1980,"cross country","gold","URS","USSR",FALSE
+31872,1980,"cross country","silver","URS","USSR",FALSE
+31872,1980,"cross country","bronze","BUL","Bulgaria",FALSE
+31872,1980,"cross country","gold","URS","USSR",FALSE
+31872,1980,"cross country","silver","FIN","Finland",FALSE
+31872,1980,"cross country","bronze","TCH","Czechoslovakia",FALSE
+31872,1980,"cross country","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31872,1980,"cross country","silver","FIN","Finland",FALSE
+31872,1980,"cross country","bronze","FIN","Finland",FALSE
+31872,1980,"cross country","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31872,1980,"cross country","silver","URS","USSR",FALSE
+31872,1980,"cross country","bronze","NOR","Norway",FALSE
+31872,1984,"cross country","gold","SWE","Sweden",FALSE
+31872,1984,"cross country","silver","FIN","Finland",FALSE
+31872,1984,"cross country","bronze","FIN","Finland",FALSE
+31872,1984,"cross country","gold","SWE","Sweden",FALSE
+31872,1984,"cross country","silver","SWE","Sweden",FALSE
+31872,1984,"cross country","bronze","FIN","Finland",FALSE
+31872,1984,"cross country","gold","SWE","Sweden",FALSE
+31872,1984,"cross country","silver","URS","USSR",FALSE
+31872,1984,"cross country","bronze","FIN","Finland",FALSE
+31872,1984,"cross country","gold","URS","USSR",FALSE
+31872,1984,"cross country","silver","URS","USSR",FALSE
+31872,1984,"cross country","bronze","SWE","Sweden",FALSE
+31872,1984,"cross country","gold","FIN","Finland",FALSE
+31872,1984,"cross country","silver","NOR","Norway",FALSE
+31872,1984,"cross country","bronze","TCH","Czechoslovakia",FALSE
+31872,1984,"cross country","gold","FIN","Finland",FALSE
+31872,1984,"cross country","silver","URS","USSR",FALSE
+31872,1984,"cross country","bronze","NOR","Norway",FALSE
+31872,1984,"cross country","gold","FIN","Finland",FALSE
+31872,1984,"cross country","silver","URS","USSR",FALSE
+31872,1984,"cross country","bronze","NOR","Norway",FALSE
+31872,1984,"cross country","gold","NOR","Norway",FALSE
+31872,1984,"cross country","silver","TCH","Czechoslovakia",FALSE
+31872,1984,"cross country","bronze","FIN","Finland",FALSE
+31872,1988,"cross country","gold","URS","USSR",FALSE
+31872,1988,"cross country","silver","NOR","Norway",FALSE
+31872,1988,"cross country","bronze","URS","USSR",FALSE
+31872,1988,"cross country","gold","SWE","Sweden",FALSE
+31872,1988,"cross country","silver","ITA","Italy",FALSE
+31872,1988,"cross country","bronze","SUI","Switzerland",FALSE
+31872,1988,"cross country","gold","SWE","Sweden",FALSE
+31872,1988,"cross country","silver","URS","USSR",FALSE
+31872,1988,"cross country","bronze","TCH","Czechoslovakia",FALSE
+31872,1988,"cross country","gold","URS","USSR",FALSE
+31872,1988,"cross country","silver","URS","USSR",FALSE
+31872,1988,"cross country","bronze","NOR","Norway",FALSE
+31872,1988,"cross country","gold","FIN","Finland",FALSE
+31872,1988,"cross country","silver","URS","USSR",FALSE
+31872,1988,"cross country","bronze","URS","USSR",FALSE
+31872,1988,"cross country","gold","URS","USSR",FALSE
+31872,1988,"cross country","silver","URS","USSR",FALSE
+31872,1988,"cross country","bronze","FIN","Finland",FALSE
+31872,1988,"cross country","gold","URS","USSR",FALSE
+31872,1988,"cross country","silver","URS","USSR",FALSE
+31872,1988,"cross country","bronze","URS","USSR",FALSE
+31872,1988,"cross country","gold","URS","USSR",FALSE
+31872,1988,"cross country","silver","NOR","Norway",FALSE
+31872,1988,"cross country","bronze","FIN","Finland",FALSE
+31872,1992,"cross country","gold","NOR","Norway",FALSE
+31872,1992,"cross country","silver","ITA","Italy",FALSE
+31872,1992,"cross country","bronze","ITA","Italy",FALSE
+31872,1992,"cross country","gold","NOR","Norway",FALSE
+31872,1992,"cross country","silver","ITA","Italy",FALSE
+31872,1992,"cross country","bronze","FIN","Finland",FALSE
+31872,1992,"cross country","gold","NOR","Norway",FALSE
+31872,1992,"cross country","silver","ITA","Italy",FALSE
+31872,1992,"cross country","bronze","SWE","Sweden",FALSE
+31872,1992,"cross country","gold","NOR","Norway",FALSE
+31872,1992,"cross country","silver","NOR","Norway",FALSE
+31872,1992,"cross country","bronze","ITA","Italy",FALSE
+31872,1992,"cross country","gold","NOR","Norway",FALSE
+31872,1992,"cross country","silver","NOR","Norway",FALSE
+31872,1992,"cross country","bronze","NOR","Norway",FALSE
+31872,1992,"cross country","gold","FIN","Finland",FALSE
+31872,1992,"cross country","silver","EUN","Unified Team (ex USSR)",FALSE
+31872,1992,"cross country","bronze","EUN","Unified Team (ex USSR)",FALSE
+31872,1992,"cross country","gold","ITA","Italy",FALSE
+31872,1992,"cross country","silver","EUN","Unified Team (ex USSR)",FALSE
+31872,1992,"cross country","bronze","EUN","Unified Team (ex USSR)",FALSE
+31872,1992,"cross country","gold","EUN","Unified Team (ex USSR)",FALSE
+31872,1992,"cross country","silver","NOR","Norway",FALSE
+31872,1992,"cross country","bronze","ITA","Italy",FALSE
+31872,1992,"cross country","gold","EUN","Unified Team (ex USSR)",FALSE
+31872,1992,"cross country","silver","ITA","Italy",FALSE
+31872,1992,"cross country","bronze","EUN","Unified Team (ex USSR)",FALSE
+31872,1992,"cross country","gold","EUN","Unified Team (ex USSR)",FALSE
+31872,1992,"cross country","silver","FIN","Finland",FALSE
+31872,1992,"cross country","bronze","EUN","Unified Team (ex USSR)",FALSE
+31872,1994,"cross country","gold","KAZ","Kazakhstan",FALSE
+31872,1994,"cross country","silver","FIN","Finland",FALSE
+31872,1994,"cross country","bronze","NOR","Norway",TRUE
+31872,1994,"cross country","gold","ITA","Italy",FALSE
+31872,1994,"cross country","silver","NOR","Norway",TRUE
+31872,1994,"cross country","bronze","FIN","Finland",FALSE
+31872,1994,"cross country","gold","NOR","Norway",TRUE
+31872,1994,"cross country","silver","KAZ","Kazakhstan",FALSE
+31872,1994,"cross country","bronze","ITA","Italy",FALSE
+31872,1994,"cross country","gold","NOR","Norway",TRUE
+31872,1994,"cross country","silver","KAZ","Kazakhstan",FALSE
+31872,1994,"cross country","bronze","ITA","Italy",FALSE
+31872,1994,"cross country","gold","NOR","Norway",TRUE
+31872,1994,"cross country","silver","NOR","Norway",TRUE
+31872,1994,"cross country","bronze","FIN","Finland",FALSE
+31872,1994,"cross country","gold","RUS","Russian Federation",FALSE
+31872,1994,"cross country","silver","ITA","Italy",FALSE
+31872,1994,"cross country","bronze","FIN","Finland",FALSE
+31872,1994,"cross country","gold","ITA","Italy",FALSE
+31872,1994,"cross country","silver","NOR","Norway",TRUE
+31872,1994,"cross country","bronze","FIN","Finland",FALSE
+31872,1994,"cross country","gold","RUS","Russian Federation",FALSE
+31872,1994,"cross country","silver","NOR","Norway",TRUE
+31872,1994,"cross country","bronze","ITA","Italy",FALSE
+31872,1994,"cross country","gold","RUS","Russian Federation",FALSE
+31872,1994,"cross country","silver","ITA","Italy",FALSE
+31872,1994,"cross country","bronze","ITA","Italy",FALSE
+31872,1994,"cross country","gold","ITA","Italy",FALSE
+31872,1994,"cross country","silver","RUS","Russian Federation",FALSE
+31872,1994,"cross country","bronze","RUS","Russian Federation",FALSE
+31872,1998,"cross country","gold","NOR","Norway",FALSE
+31872,1998,"cross country","silver","SWE","Sweden",FALSE
+31872,1998,"cross country","bronze","AUT","Austria",FALSE
+31872,1998,"cross country","gold","NOR","Norway",FALSE
+31872,1998,"cross country","silver","ITA","Italy",FALSE
+31872,1998,"cross country","bronze","FIN","Finland",FALSE
+31872,1998,"cross country","gold","NOR","Norway",FALSE
+31872,1998,"cross country","silver","AUT","Austria",FALSE
+31872,1998,"cross country","bronze","FIN","Finland",FALSE
+31872,1998,"cross country","gold","NOR","Norway",FALSE
+31872,1998,"cross country","silver","NOR","Norway",FALSE
+31872,1998,"cross country","bronze","KAZ","Kazakhstan",FALSE
+31872,1998,"cross country","gold","FIN","Finland",FALSE
+31872,1998,"cross country","silver","NOR","Norway",FALSE
+31872,1998,"cross country","bronze","ITA","Italy",FALSE
+31872,1998,"cross country","gold","RUS","Russian Federation",FALSE
+31872,1998,"cross country","silver","CZE","Czech Republic",FALSE
+31872,1998,"cross country","bronze","NOR","Norway",FALSE
+31872,1998,"cross country","gold","RUS","Russian Federation",FALSE
+31872,1998,"cross country","silver","ITA","Italy",FALSE
+31872,1998,"cross country","bronze","RUS","Russian Federation",FALSE
+31872,1998,"cross country","gold","RUS","Russian Federation",FALSE
+31872,1998,"cross country","silver","NOR","Norway",FALSE
+31872,1998,"cross country","bronze","ITA","Italy",FALSE
+31872,1998,"cross country","gold","RUS","Russian Federation",FALSE
+31872,1998,"cross country","silver","RUS","Russian Federation",FALSE
+31872,1998,"cross country","bronze","CZE","Czech Republic",FALSE
+31872,1998,"cross country","gold","RUS","Russian Federation",FALSE
+31872,1998,"cross country","silver","RUS","Russian Federation",FALSE
+31872,1998,"cross country","bronze","NOR","Norway",FALSE
+31872,2002,"cross country","gold","EST","Estonia",FALSE
+31872,2002,"cross country","silver","NOR","Norway",FALSE
+31872,2002,"cross country","bronze","EST","Estonia",FALSE
+31872,2002,"cross country","gold","RUS","Russian Federation",FALSE
+31872,2002,"cross country","silver","EST","Estonia",FALSE
+31872,2002,"cross country","bronze","NOR","Norway",FALSE
+31872,2002,"cross country","gold","NOR","Norway",FALSE
+31872,2002,"cross country","silver","ITA","Italy",FALSE
+31872,2002,"cross country","bronze","GER","Germany",FALSE
+31872,2002,"cross country","gold","NOR","Norway",FALSE
+31872,2002,"cross country","silver","NOR","Norway",FALSE
+31872,2002,"cross country","bronze","SWE","Sweden",FALSE
+31872,2002,"cross country","gold","NOR","Norway",FALSE
+31872,2002,"cross country","silver","GER","Germany",FALSE
+31872,2002,"cross country","bronze","ITA","Italy",FALSE
+31872,2002,"cross country","gold","AUT","Austria",FALSE
+31872,2002,"cross country","silver","AUT","Austria",FALSE
+31872,2002,"cross country","bronze","NOR","Norway",FALSE
+31872,2002,"cross country","gold","NOR","Norway",FALSE
+31872,2002,"cross country","silver","RUS","Russian Federation",FALSE
+31872,2002,"cross country","bronze","ITA","Italy",FALSE
+31872,2002,"cross country","gold","ITA","Italy",FALSE
+31872,2002,"cross country","silver","ITA","Italy",FALSE
+31872,2002,"cross country","bronze","NOR","Norway",FALSE
+31872,2002,"cross country","gold","GER","Germany",FALSE
+31872,2002,"cross country","silver","NOR","Norway",FALSE
+31872,2002,"cross country","bronze","SUI","Switzerland",FALSE
+31872,2002,"cross country","gold","CAN","Canada",FALSE
+31872,2002,"cross country","silver","CZE","Czech Republic",FALSE
+31872,2002,"cross country","bronze","GER","Germany",FALSE
+31872,2002,"cross country","gold","RUS","Russian Federation",FALSE
+31872,2002,"cross country","silver","GER","Germany",FALSE
+31872,2002,"cross country","bronze","NOR","Norway",FALSE
+31872,2002,"cross country","gold","ITA","Italy",FALSE
+31872,2002,"cross country","silver","CZE","Czech Republic",FALSE
+31872,2002,"cross country","bronze","RUS","Russian Federation",FALSE
+31872,2006,"cross country","gold","EST","Estonia",FALSE
+31872,2006,"cross country","silver","CZE","Czech Republic",FALSE
+31872,2006,"cross country","bronze","GER","Germany",FALSE
+31872,2006,"cross country","gold","ITA","Italy",TRUE
+31872,2006,"cross country","silver","GER","Germany",FALSE
+31872,2006,"cross country","bronze","SWE","Sweden",FALSE
+31872,2006,"cross country","gold","SWE","Sweden",FALSE
+31872,2006,"cross country","silver","FRA","France",FALSE
+31872,2006,"cross country","bronze","SWE","Sweden",FALSE
+31872,2006,"cross country","gold","SWE","Sweden",FALSE
+31872,2006,"cross country","silver","NOR","Norway",FALSE
+31872,2006,"cross country","bronze","RUS","Russian Federation",FALSE
+31872,2006,"cross country","gold","ITA","Italy",TRUE
+31872,2006,"cross country","silver","RUS","Russian Federation",FALSE
+31872,2006,"cross country","bronze","AUT","Austria",FALSE
+31872,2006,"cross country","gold","RUS","Russian Federation",FALSE
+31872,2006,"cross country","silver","NOR","Norway",FALSE
+31872,2006,"cross country","bronze","ITA","Italy",TRUE
+31872,2006,"cross country","gold","EST","Estonia",FALSE
+31872,2006,"cross country","silver","NOR","Norway",FALSE
+31872,2006,"cross country","bronze","NOR","Norway",FALSE
+31872,2006,"cross country","gold","RUS","Russian Federation",FALSE
+31872,2006,"cross country","silver","GER","Germany",FALSE
+31872,2006,"cross country","bronze","ITA","Italy",TRUE
+31872,2006,"cross country","gold","CAN","Canada",FALSE
+31872,2006,"cross country","silver","GER","Germany",FALSE
+31872,2006,"cross country","bronze","RUS","Russian Federation",FALSE
+31872,2006,"cross country","gold","SWE","Sweden",FALSE
+31872,2006,"cross country","silver","CAN","Canada",FALSE
+31872,2006,"cross country","bronze","FIN","Finland",FALSE
+31872,2006,"cross country","gold","CZE","Czech Republic",FALSE
+31872,2006,"cross country","silver","RUS","Russian Federation",FALSE
+31872,2006,"cross country","bronze","POL","Poland",FALSE
+31872,2006,"cross country","gold","EST","Estonia",FALSE
+31872,2006,"cross country","silver","CZE","Czech Republic",FALSE
+31872,2006,"cross country","bronze","RUS","Russian Federation",FALSE
+31872,2010,"cross country","gold","SUI","Switzerland",FALSE
+31872,2010,"cross country","silver","ITA","Italy",FALSE
+31872,2010,"cross country","bronze","CZE","Czech Republic",FALSE
+31872,2010,"cross country","gold","SWE","Sweden",FALSE
+31872,2010,"cross country","silver","NOR","Norway",FALSE
+31872,2010,"cross country","bronze","CZE","Czech Republic",FALSE
+31872,2010,"cross country","gold","NOR","Norway",FALSE
+31872,2010,"cross country","silver","GER","Germany",FALSE
+31872,2010,"cross country","bronze","RUS","Russian Federation",FALSE
+31872,2010,"cross country","gold","RUS","Russian Federation",FALSE
+31872,2010,"cross country","silver","RUS","Russian Federation",FALSE
+31872,2010,"cross country","bronze","NOR","Norway",FALSE
+31872,2010,"cross country","gold","NOR","Norway",FALSE
+31872,2010,"cross country","silver","GER","Germany",FALSE
+31872,2010,"cross country","bronze","SWE","Sweden",FALSE
+31872,2010,"cross country","gold","SWE","Sweden",FALSE
+31872,2010,"cross country","silver","GER","Germany",FALSE
+31872,2010,"cross country","bronze","SWE","Sweden",FALSE
+31872,2010,"cross country","gold","SWE","Sweden",FALSE
+31872,2010,"cross country","silver","EST","Estonia",FALSE
+31872,2010,"cross country","bronze","NOR","Norway",FALSE
+31872,2010,"cross country","gold","NOR","Norway",FALSE
+31872,2010,"cross country","silver","GER","Germany",FALSE
+31872,2010,"cross country","bronze","FIN","Finland",FALSE
+31872,2010,"cross country","gold","GER","Germany",FALSE
+31872,2010,"cross country","silver","SWE","Sweden",FALSE
+31872,2010,"cross country","bronze","RUS","Russian Federation",FALSE
+31872,2010,"cross country","gold","NOR","Norway",FALSE
+31872,2010,"cross country","silver","POL","Poland",FALSE
+31872,2010,"cross country","bronze","SLO","Slovenia",FALSE
+31872,2010,"cross country","gold","POL","Poland",FALSE
+31872,2010,"cross country","silver","NOR","Norway",FALSE
+31872,2010,"cross country","bronze","FIN","Finland",FALSE
+31872,2010,"cross country","gold","NOR","Norway",FALSE
+31872,2010,"cross country","silver","SWE","Sweden",FALSE
+31872,2010,"cross country","bronze","POL","Poland",FALSE
+31759,1924,"figure skating","gold","SWE","Sweden",FALSE
+31759,1924,"figure skating","silver","AUT","Austria",FALSE
+31759,1924,"figure skating","bronze","SUI","Switzerland",FALSE
+31759,1924,"figure skating","gold","AUT","Austria",FALSE
+31759,1924,"figure skating","silver","FIN","Finland",FALSE
+31759,1924,"figure skating","bronze","FRA","France",TRUE
+31759,1924,"figure skating","gold","AUT","Austria",FALSE
+31759,1924,"figure skating","silver","USA","United States of America",FALSE
+31759,1924,"figure skating","bronze","GBR","Great Britain",FALSE
+31759,1928,"figure skating","gold","SWE","Sweden",FALSE
+31759,1928,"figure skating","silver","AUT","Austria",FALSE
+31759,1928,"figure skating","bronze","BEL","Belgium",FALSE
+31759,1928,"figure skating","gold","FRA","France",FALSE
+31759,1928,"figure skating","silver","AUT","Austria",FALSE
+31759,1928,"figure skating","bronze","AUT","Austria",FALSE
+31759,1928,"figure skating","gold","NOR","Norway",FALSE
+31759,1928,"figure skating","silver","AUT","Austria",FALSE
+31759,1928,"figure skating","bronze","USA","United States of America",FALSE
+31759,1932,"figure skating","gold","AUT","Austria",FALSE
+31759,1932,"figure skating","silver","SWE","Sweden",FALSE
+31759,1932,"figure skating","bronze","CAN","Canada",FALSE
+31759,1932,"figure skating","gold","FRA","France",FALSE
+31759,1932,"figure skating","silver","USA","United States of America",TRUE
+31759,1932,"figure skating","bronze","HUN","Hungary",FALSE
+31759,1932,"figure skating","gold","NOR","Norway",FALSE
+31759,1932,"figure skating","silver","AUT","Austria",FALSE
+31759,1932,"figure skating","bronze","USA","United States of America",TRUE
+31759,1936,"figure skating","gold","AUT","Austria",FALSE
+31759,1936,"figure skating","silver","GER","Germany",TRUE
+31759,1936,"figure skating","bronze","AUT","Austria",FALSE
+31759,1936,"figure skating","gold","GER","Germany",TRUE
+31759,1936,"figure skating","silver","AUT","Austria",FALSE
+31759,1936,"figure skating","bronze","HUN","Hungary",FALSE
+31759,1936,"figure skating","gold","NOR","Norway",FALSE
+31759,1936,"figure skating","silver","GBR","Great Britain",FALSE
+31759,1936,"figure skating","bronze","SWE","Sweden",FALSE
+31759,1948,"figure skating","gold","USA","United States of America",FALSE
+31759,1948,"figure skating","silver","SUI","Switzerland",TRUE
+31759,1948,"figure skating","bronze","AUT","Austria",FALSE
+31759,1948,"figure skating","gold","BEL","Belgium",FALSE
+31759,1948,"figure skating","silver","HUN","Hungary",FALSE
+31759,1948,"figure skating","bronze","CAN","Canada",FALSE
+31759,1948,"figure skating","gold","CAN","Canada",FALSE
+31759,1948,"figure skating","silver","AUT","Austria",FALSE
+31759,1948,"figure skating","bronze","GBR","Great Britain",FALSE
+31759,1952,"figure skating","gold","USA","United States of America",FALSE
+31759,1952,"figure skating","silver","AUT","Austria",FALSE
+31759,1952,"figure skating","bronze","USA","United States of America",FALSE
+31759,1952,"figure skating","gold","GER","Germany",FALSE
+31759,1952,"figure skating","silver","USA","United States of America",FALSE
+31759,1952,"figure skating","bronze","HUN","Hungary",FALSE
+31759,1952,"figure skating","gold","GBR","Great Britain",FALSE
+31759,1952,"figure skating","silver","USA","United States of America",FALSE
+31759,1952,"figure skating","bronze","FRA","France",FALSE
+31759,1956,"figure skating","gold","USA","United States of America",FALSE
+31759,1956,"figure skating","silver","USA","United States of America",FALSE
+31759,1956,"figure skating","bronze","USA","United States of America",FALSE
+31759,1956,"figure skating","gold","AUT","Austria",FALSE
+31759,1956,"figure skating","silver","CAN","Canada",FALSE
+31759,1956,"figure skating","bronze","HUN","Hungary",FALSE
+31759,1956,"figure skating","gold","USA","United States of America",FALSE
+31759,1956,"figure skating","silver","USA","United States of America",FALSE
+31759,1956,"figure skating","bronze","AUT","Austria",FALSE
+31759,1960,"figure skating","gold","USA","United States of America",TRUE
+31759,1960,"figure skating","silver","TCH","Czechoslovakia",FALSE
+31759,1960,"figure skating","bronze","CAN","Canada",FALSE
+31759,1960,"figure skating","gold","CAN","Canada",FALSE
+31759,1960,"figure skating","silver","GER","United Team of Germany (1956,1960,1964)",FALSE
+31759,1960,"figure skating","bronze","USA","United States of America",TRUE
+31759,1960,"figure skating","gold","USA","United States of America",TRUE
+31759,1960,"figure skating","silver","NED","Netherlands",FALSE
+31759,1960,"figure skating","bronze","USA","United States of America",TRUE
+31759,1964,"figure skating","gold","GER","United Team of Germany (1956,1960,1964)",FALSE
+31759,1964,"figure skating","silver","FRA","France",FALSE
+31759,1964,"figure skating","bronze","USA","United States of America",FALSE
+31759,1964,"figure skating","gold","URS","USSR",FALSE
+31759,1964,"figure skating","silver","GER","United Team of Germany (1956,1960,1964)",FALSE
+31759,1964,"figure skating","bronze","CAN","Canada",FALSE
+31759,1964,"figure skating","gold","NED","Netherlands",FALSE
+31759,1964,"figure skating","silver","AUT","Austria",TRUE
+31759,1964,"figure skating","bronze","CAN","Canada",FALSE
+31759,1968,"figure skating","gold","AUT","Austria",FALSE
+31759,1968,"figure skating","silver","USA","United States of America",FALSE
+31759,1968,"figure skating","bronze","FRA","France",TRUE
+31759,1968,"figure skating","gold","URS","USSR",FALSE
+31759,1968,"figure skating","silver","URS","USSR",FALSE
+31759,1968,"figure skating","bronze","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31759,1968,"figure skating","gold","USA","United States of America",FALSE
+31759,1968,"figure skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31759,1968,"figure skating","bronze","TCH","Czechoslovakia",FALSE
+31759,1972,"figure skating","gold","TCH","Czechoslovakia",FALSE
+31759,1972,"figure skating","silver","URS","USSR",FALSE
+31759,1972,"figure skating","bronze","FRA","France",FALSE
+31759,1972,"figure skating","gold","URS","USSR",FALSE
+31759,1972,"figure skating","silver","URS","USSR",FALSE
+31759,1972,"figure skating","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31759,1972,"figure skating","gold","AUT","Austria",FALSE
+31759,1972,"figure skating","silver","CAN","Canada",FALSE
+31759,1972,"figure skating","bronze","USA","United States of America",FALSE
+31759,1976,"figure skating","gold","GBR","Great Britain",FALSE
+31759,1976,"figure skating","silver","URS","USSR",FALSE
+31759,1976,"figure skating","bronze","CAN","Canada",FALSE
+31759,1976,"figure skating","gold","URS","USSR",FALSE
+31759,1976,"figure skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31759,1976,"figure skating","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31759,1976,"figure skating","gold","URS","USSR",FALSE
+31759,1976,"figure skating","silver","URS","USSR",FALSE
+31759,1976,"figure skating","bronze","USA","United States of America",FALSE
+31759,1976,"figure skating","gold","USA","United States of America",FALSE
+31759,1976,"figure skating","silver","NED","Netherlands",FALSE
+31759,1976,"figure skating","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31759,1980,"figure skating","gold","GBR","Great Britain",FALSE
+31759,1980,"figure skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31759,1980,"figure skating","bronze","USA","United States of America",TRUE
+31759,1980,"figure skating","gold","URS","USSR",FALSE
+31759,1980,"figure skating","silver","URS","USSR",FALSE
+31759,1980,"figure skating","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31759,1980,"figure skating","gold","URS","USSR",FALSE
+31759,1980,"figure skating","silver","HUN","Hungary",FALSE
+31759,1980,"figure skating","bronze","URS","USSR",FALSE
+31759,1980,"figure skating","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31759,1980,"figure skating","silver","USA","United States of America",TRUE
+31759,1980,"figure skating","bronze","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31759,1984,"figure skating","gold","USA","United States of America",FALSE
+31759,1984,"figure skating","silver","CAN","Canada",FALSE
+31759,1984,"figure skating","bronze","TCH","Czechoslovakia",FALSE
+31759,1984,"figure skating","gold","URS","USSR",FALSE
+31759,1984,"figure skating","silver","USA","United States of America",FALSE
+31759,1984,"figure skating","bronze","URS","USSR",FALSE
+31759,1984,"figure skating","gold","GBR","Great Britain",FALSE
+31759,1984,"figure skating","silver","URS","USSR",FALSE
+31759,1984,"figure skating","bronze","URS","USSR",FALSE
+31759,1984,"figure skating","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31759,1984,"figure skating","silver","USA","United States of America",FALSE
+31759,1984,"figure skating","bronze","URS","USSR",FALSE
+31759,1988,"figure skating","gold","USA","United States of America",FALSE
+31759,1988,"figure skating","silver","CAN","Canada",TRUE
+31759,1988,"figure skating","bronze","URS","USSR",FALSE
+31759,1988,"figure skating","gold","URS","USSR",FALSE
+31759,1988,"figure skating","silver","URS","USSR",FALSE
+31759,1988,"figure skating","bronze","USA","United States of America",FALSE
+31759,1988,"figure skating","gold","URS","USSR",FALSE
+31759,1988,"figure skating","silver","URS","USSR",FALSE
+31759,1988,"figure skating","bronze","CAN","Canada",TRUE
+31759,1988,"figure skating","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31759,1988,"figure skating","silver","CAN","Canada",TRUE
+31759,1988,"figure skating","bronze","USA","United States of America",FALSE
+31759,1992,"figure skating","gold","EUN","Unified Team (ex USSR)",FALSE
+31759,1992,"figure skating","silver","USA","United States of America",FALSE
+31759,1992,"figure skating","bronze","TCH","Czechoslovakia",FALSE
+31759,1992,"figure skating","gold","EUN","Unified Team (ex USSR)",FALSE
+31759,1992,"figure skating","silver","EUN","Unified Team (ex USSR)",FALSE
+31759,1992,"figure skating","bronze","CAN","Canada",FALSE
+31759,1992,"figure skating","gold","EUN","Unified Team (ex USSR)",FALSE
+31759,1992,"figure skating","silver","FRA","France",TRUE
+31759,1992,"figure skating","bronze","EUN","Unified Team (ex USSR)",FALSE
+31759,1992,"figure skating","gold","USA","United States of America",FALSE
+31759,1992,"figure skating","silver","JPN","Japan",FALSE
+31759,1992,"figure skating","bronze","USA","United States of America",FALSE
+31759,1994,"figure skating","gold","RUS","Russian Federation",FALSE
+31759,1994,"figure skating","silver","CAN","Canada",FALSE
+31759,1994,"figure skating","bronze","FRA","France",FALSE
+31759,1994,"figure skating","gold","RUS","Russian Federation",FALSE
+31759,1994,"figure skating","silver","RUS","Russian Federation",FALSE
+31759,1994,"figure skating","bronze","CAN","Canada",FALSE
+31759,1994,"figure skating","gold","RUS","Russian Federation",FALSE
+31759,1994,"figure skating","silver","RUS","Russian Federation",FALSE
+31759,1994,"figure skating","bronze","GBR","Great Britain",FALSE
+31759,1994,"figure skating","gold","UKR","Ukraine",FALSE
+31759,1994,"figure skating","silver","USA","United States of America",FALSE
+31759,1994,"figure skating","bronze","CHN","People's Republic of China",FALSE
+31759,1998,"figure skating","gold","RUS","Russian Federation",FALSE
+31759,1998,"figure skating","silver","CAN","Canada",FALSE
+31759,1998,"figure skating","bronze","FRA","France",FALSE
+31759,1998,"figure skating","gold","RUS","Russian Federation",FALSE
+31759,1998,"figure skating","silver","RUS","Russian Federation",FALSE
+31759,1998,"figure skating","bronze","GER","Germany",FALSE
+31759,1998,"figure skating","gold","RUS","Russian Federation",FALSE
+31759,1998,"figure skating","silver","RUS","Russian Federation",FALSE
+31759,1998,"figure skating","bronze","FRA","France",FALSE
+31759,1998,"figure skating","gold","USA","United States of America",FALSE
+31759,1998,"figure skating","silver","USA","United States of America",FALSE
+31759,1998,"figure skating","bronze","CHN","People's Republic of China",FALSE
+31759,2002,"figure skating","gold","RUS","Russian Federation",FALSE
+31759,2002,"figure skating","silver","RUS","Russian Federation",FALSE
+31759,2002,"figure skating","bronze","USA","United States of America",TRUE
+31759,2002,"figure skating","gold","RUS","Russian Federation",FALSE
+31759,2002,"figure skating","silver","CAN","Canada",FALSE
+31759,2002,"figure skating","bronze","CHN","People's Republic of China",FALSE
+31759,2002,"figure skating","gold","FRA","France",FALSE
+31759,2002,"figure skating","silver","RUS","Russian Federation",FALSE
+31759,2002,"figure skating","bronze","ITA","Italy",FALSE
+31759,2002,"figure skating","gold","USA","United States of America",TRUE
+31759,2002,"figure skating","silver","RUS","Russian Federation",FALSE
+31759,2002,"figure skating","bronze","USA","United States of America",TRUE
+31759,2006,"figure skating","gold","RUS","Russian Federation",FALSE
+31759,2006,"figure skating","silver","SUI","Switzerland",FALSE
+31759,2006,"figure skating","bronze","CAN","Canada",FALSE
+31759,2006,"figure skating","gold","RUS","Russian Federation",FALSE
+31759,2006,"figure skating","silver","CHN","People's Republic of China",FALSE
+31759,2006,"figure skating","bronze","CHN","People's Republic of China",FALSE
+31759,2006,"figure skating","gold","RUS","Russian Federation",FALSE
+31759,2006,"figure skating","silver","USA","United States of America",FALSE
+31759,2006,"figure skating","bronze","UKR","Ukraine",FALSE
+31759,2006,"figure skating","gold","JPN","Japan",FALSE
+31759,2006,"figure skating","silver","USA","United States of America",FALSE
+31759,2006,"figure skating","bronze","RUS","Russian Federation",FALSE
+31759,2010,"figure skating","gold","USA","United States of America",FALSE
+31759,2010,"figure skating","silver","RUS","Russian Federation",FALSE
+31759,2010,"figure skating","bronze","JPN","Japan",FALSE
+31759,2010,"figure skating","gold","CHN","People's Republic of China",FALSE
+31759,2010,"figure skating","silver","CHN","People's Republic of China",FALSE
+31759,2010,"figure skating","bronze","GER","Germany",FALSE
+31759,2010,"figure skating","gold","CAN","Canada",TRUE
+31759,2010,"figure skating","silver","USA","United States of America",FALSE
+31759,2010,"figure skating","bronze","RUS","Russian Federation",FALSE
+31759,2010,"figure skating","gold","KOR","Republic of Korea",FALSE
+31759,2010,"figure skating","silver","JPN","Japan",FALSE
+31759,2010,"figure skating","bronze","CAN","Canada",TRUE
+31910,1924,"ice hockey","gold","CAN","Canada",FALSE
+31910,1924,"ice hockey","silver","USA","United States of America",FALSE
+31910,1924,"ice hockey","bronze","GBR","Great Britain",FALSE
+31910,1928,"ice hockey","gold","CAN","Canada",FALSE
+31910,1928,"ice hockey","silver","SWE","Sweden",FALSE
+31910,1928,"ice hockey","bronze","SUI","Switzerland",TRUE
+31910,1932,"ice hockey","gold","CAN","Canada",FALSE
+31910,1932,"ice hockey","silver","USA","United States of America",TRUE
+31910,1932,"ice hockey","bronze","GER","Germany",FALSE
+31910,1936,"ice hockey","gold","GBR","Great Britain",FALSE
+31910,1936,"ice hockey","silver","CAN","Canada",FALSE
+31910,1936,"ice hockey","bronze","USA","United States of America",FALSE
+31910,1948,"ice hockey","gold","CAN","Canada",FALSE
+31910,1948,"ice hockey","silver","TCH","Czechoslovakia",FALSE
+31910,1948,"ice hockey","bronze","SUI","Switzerland",TRUE
+31910,1952,"ice hockey","gold","CAN","Canada",FALSE
+31910,1952,"ice hockey","silver","USA","United States of America",FALSE
+31910,1952,"ice hockey","bronze","SWE","Sweden",FALSE
+31910,1956,"ice hockey","gold","URS","USSR",FALSE
+31910,1956,"ice hockey","silver","USA","United States of America",FALSE
+31910,1956,"ice hockey","bronze","CAN","Canada",FALSE
+31910,1960,"ice hockey","gold","USA","United States of America",TRUE
+31910,1960,"ice hockey","silver","CAN","Canada",FALSE
+31910,1960,"ice hockey","bronze","URS","USSR",FALSE
+31910,1964,"ice hockey","gold","URS","USSR",FALSE
+31910,1964,"ice hockey","silver","SWE","Sweden",FALSE
+31910,1964,"ice hockey","bronze","TCH","Czechoslovakia",FALSE
+31910,1968,"ice hockey","gold","URS","USSR",FALSE
+31910,1968,"ice hockey","silver","TCH","Czechoslovakia",FALSE
+31910,1968,"ice hockey","bronze","CAN","Canada",FALSE
+31910,1972,"ice hockey","gold","URS","USSR",FALSE
+31910,1972,"ice hockey","silver","USA","United States of America",FALSE
+31910,1972,"ice hockey","bronze","TCH","Czechoslovakia",FALSE
+31910,1976,"ice hockey","gold","URS","USSR",FALSE
+31910,1976,"ice hockey","silver","TCH","Czechoslovakia",FALSE
+31910,1976,"ice hockey","bronze","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31910,1980,"ice hockey","gold","USA","United States of America",TRUE
+31910,1980,"ice hockey","silver","URS","USSR",FALSE
+31910,1980,"ice hockey","bronze","SWE","Sweden",FALSE
+31910,1984,"ice hockey","gold","URS","USSR",FALSE
+31910,1984,"ice hockey","silver","TCH","Czechoslovakia",FALSE
+31910,1984,"ice hockey","bronze","SWE","Sweden",FALSE
+31910,1988,"ice hockey","gold","URS","USSR",FALSE
+31910,1988,"ice hockey","silver","FIN","Finland",FALSE
+31910,1988,"ice hockey","bronze","SWE","Sweden",FALSE
+31910,1992,"ice hockey","gold","EUN","Unified Team (ex USSR)",FALSE
+31910,1992,"ice hockey","silver","CAN","Canada",FALSE
+31910,1992,"ice hockey","bronze","TCH","Czechoslovakia",FALSE
+31910,1994,"ice hockey","gold","SWE","Sweden",FALSE
+31910,1994,"ice hockey","silver","CAN","Canada",FALSE
+31910,1994,"ice hockey","bronze","FIN","Finland",FALSE
+31910,1998,"ice hockey","gold","CZE","Czech Republic",FALSE
+31910,1998,"ice hockey","silver","RUS","Russian Federation",FALSE
+31910,1998,"ice hockey","bronze","FIN","Finland",FALSE
+31910,1998,"ice hockey","gold","USA","United States of America",FALSE
+31910,1998,"ice hockey","silver","CAN","Canada",FALSE
+31910,1998,"ice hockey","bronze","FIN","Finland",FALSE
+31910,2002,"ice hockey","gold","CAN","Canada",FALSE
+31910,2002,"ice hockey","silver","USA","United States of America",TRUE
+31910,2002,"ice hockey","bronze","RUS","Russian Federation",FALSE
+31910,2002,"ice hockey","gold","CAN","Canada",FALSE
+31910,2002,"ice hockey","silver","USA","United States of America",TRUE
+31910,2002,"ice hockey","bronze","SWE","Sweden",FALSE
+31910,2006,"ice hockey","gold","SWE","Sweden",FALSE
+31910,2006,"ice hockey","silver","FIN","Finland",FALSE
+31910,2006,"ice hockey","bronze","CZE","Czech Republic",FALSE
+31910,2006,"ice hockey","gold","CAN","Canada",FALSE
+31910,2006,"ice hockey","silver","SWE","Sweden",FALSE
+31910,2006,"ice hockey","bronze","USA","United States of America",FALSE
+31910,2010,"ice hockey","gold","CAN","Canada",TRUE
+31910,2010,"ice hockey","silver","USA","United States of America",FALSE
+31910,2010,"ice hockey","bronze","FIN","Finland",FALSE
+31910,2010,"ice hockey","gold","CAN","Canada",TRUE
+31910,2010,"ice hockey","silver","USA","United States of America",FALSE
+31910,2010,"ice hockey","bronze","FIN","Finland",FALSE
+31911,1924,"nordic combined","gold","NOR","Norway",FALSE
+31911,1924,"nordic combined","silver","NOR","Norway",FALSE
+31911,1924,"nordic combined","bronze","NOR","Norway",FALSE
+31911,1928,"nordic combined","gold","NOR","Norway",FALSE
+31911,1928,"nordic combined","silver","NOR","Norway",FALSE
+31911,1928,"nordic combined","bronze","NOR","Norway",FALSE
+31911,1932,"nordic combined","gold","NOR","Norway",FALSE
+31911,1932,"nordic combined","silver","NOR","Norway",FALSE
+31911,1932,"nordic combined","bronze","NOR","Norway",FALSE
+31911,1936,"nordic combined","gold","NOR","Norway",FALSE
+31911,1936,"nordic combined","silver","NOR","Norway",FALSE
+31911,1936,"nordic combined","bronze","NOR","Norway",FALSE
+31911,1948,"nordic combined","gold","FIN","Finland",FALSE
+31911,1948,"nordic combined","silver","FIN","Finland",FALSE
+31911,1948,"nordic combined","bronze","SWE","Sweden",FALSE
+31911,1952,"nordic combined","gold","NOR","Norway",TRUE
+31911,1952,"nordic combined","silver","FIN","Finland",FALSE
+31911,1952,"nordic combined","bronze","NOR","Norway",TRUE
+31911,1956,"nordic combined","gold","NOR","Norway",FALSE
+31911,1956,"nordic combined","silver","SWE","Sweden",FALSE
+31911,1956,"nordic combined","bronze","POL","Poland",FALSE
+31911,1960,"nordic combined","gold","GER","United Team of Germany (1956,1960,1964)",FALSE
+31911,1960,"nordic combined","silver","NOR","Norway",FALSE
+31911,1960,"nordic combined","bronze","URS","USSR",FALSE
+31911,1964,"nordic combined","gold","NOR","Norway",FALSE
+31911,1964,"nordic combined","silver","URS","USSR",FALSE
+31911,1964,"nordic combined","bronze","GER","United Team of Germany (1956,1960,1964)",FALSE
+31911,1968,"nordic combined","gold","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31911,1968,"nordic combined","silver","SUI","Switzerland",FALSE
+31911,1968,"nordic combined","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31911,1972,"nordic combined","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31911,1972,"nordic combined","silver","FIN","Finland",FALSE
+31911,1972,"nordic combined","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31911,1976,"nordic combined","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31911,1976,"nordic combined","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31911,1976,"nordic combined","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31911,1980,"nordic combined","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31911,1980,"nordic combined","silver","FIN","Finland",FALSE
+31911,1980,"nordic combined","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31911,1984,"nordic combined","gold","NOR","Norway",FALSE
+31911,1984,"nordic combined","silver","FIN","Finland",FALSE
+31911,1984,"nordic combined","bronze","FIN","Finland",FALSE
+31911,1988,"nordic combined","gold","SUI","Switzerland",FALSE
+31911,1988,"nordic combined","silver","AUT","Austria",FALSE
+31911,1988,"nordic combined","bronze","URS","USSR",FALSE
+31911,1988,"nordic combined","gold","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31911,1988,"nordic combined","silver","SUI","Switzerland",FALSE
+31911,1988,"nordic combined","bronze","AUT","Austria",FALSE
+31911,1992,"nordic combined","gold","FRA","France",TRUE
+31911,1992,"nordic combined","silver","FRA","France",TRUE
+31911,1992,"nordic combined","bronze","AUT","Austria",FALSE
+31911,1992,"nordic combined","gold","JPN","Japan",FALSE
+31911,1992,"nordic combined","silver","NOR","Norway",FALSE
+31911,1992,"nordic combined","bronze","AUT","Austria",FALSE
+31911,1994,"nordic combined","gold","NOR","Norway",TRUE
+31911,1994,"nordic combined","silver","JPN","Japan",FALSE
+31911,1994,"nordic combined","bronze","NOR","Norway",TRUE
+31911,1994,"nordic combined","gold","JPN","Japan",FALSE
+31911,1994,"nordic combined","silver","NOR","Norway",TRUE
+31911,1994,"nordic combined","bronze","SUI","Switzerland",FALSE
+31911,1998,"nordic combined","gold","NOR","Norway",FALSE
+31911,1998,"nordic combined","silver","FIN","Finland",FALSE
+31911,1998,"nordic combined","bronze","RUS","Russian Federation",FALSE
+31911,1998,"nordic combined","gold","NOR","Norway",FALSE
+31911,1998,"nordic combined","silver","FIN","Finland",FALSE
+31911,1998,"nordic combined","bronze","FRA","France",FALSE
+31911,2002,"nordic combined","gold","FIN","Finland",FALSE
+31911,2002,"nordic combined","silver","FIN","Finland",FALSE
+31911,2002,"nordic combined","bronze","AUT","Austria",FALSE
+31911,2002,"nordic combined","gold","FIN","Finland",FALSE
+31911,2002,"nordic combined","silver","GER","Germany",FALSE
+31911,2002,"nordic combined","bronze","AUT","Austria",FALSE
+31911,2002,"nordic combined","gold","FIN","Finland",FALSE
+31911,2002,"nordic combined","silver","GER","Germany",FALSE
+31911,2002,"nordic combined","bronze","AUT","Austria",FALSE
+31911,2006,"nordic combined","gold","GER","Germany",FALSE
+31911,2006,"nordic combined","silver","AUT","Austria",FALSE
+31911,2006,"nordic combined","bronze","NOR","Norway",FALSE
+31911,2006,"nordic combined","gold","AUT","Austria",FALSE
+31911,2006,"nordic combined","silver","NOR","Norway",FALSE
+31911,2006,"nordic combined","bronze","GER","Germany",FALSE
+31911,2006,"nordic combined","gold","AUT","Austria",FALSE
+31911,2006,"nordic combined","silver","GER","Germany",FALSE
+31911,2006,"nordic combined","bronze","FIN","Finland",FALSE
+31911,2010,"nordic combined","gold","FRA","France",FALSE
+31911,2010,"nordic combined","silver","USA","United States of America",FALSE
+31911,2010,"nordic combined","bronze","ITA","Italy",FALSE
+31911,2010,"nordic combined","gold","AUT","Austria",FALSE
+31911,2010,"nordic combined","silver","USA","United States of America",FALSE
+31911,2010,"nordic combined","bronze","GER","Germany",FALSE
+31911,2010,"nordic combined","gold","USA","United States of America",FALSE
+31911,2010,"nordic combined","silver","USA","United States of America",FALSE
+31911,2010,"nordic combined","bronze","AUT","Austria",FALSE
+32498,1924,"ski jumping","gold","NOR","Norway",FALSE
+32498,1924,"ski jumping","silver","NOR","Norway",FALSE
+32498,1924,"ski jumping","bronze","USA","United States of America",FALSE
+32498,1928,"ski jumping","gold","NOR","Norway",FALSE
+32498,1928,"ski jumping","silver","NOR","Norway",FALSE
+32498,1928,"ski jumping","bronze","TCH","Czechoslovakia",FALSE
+32498,1932,"ski jumping","gold","NOR","Norway",FALSE
+32498,1932,"ski jumping","silver","NOR","Norway",FALSE
+32498,1932,"ski jumping","bronze","NOR","Norway",FALSE
+32498,1936,"ski jumping","gold","NOR","Norway",FALSE
+32498,1936,"ski jumping","silver","SWE","Sweden",FALSE
+32498,1936,"ski jumping","bronze","NOR","Norway",FALSE
+32498,1948,"ski jumping","gold","NOR","Norway",FALSE
+32498,1948,"ski jumping","silver","NOR","Norway",FALSE
+32498,1948,"ski jumping","bronze","NOR","Norway",FALSE
+32498,1952,"ski jumping","gold","NOR","Norway",TRUE
+32498,1952,"ski jumping","silver","NOR","Norway",TRUE
+32498,1952,"ski jumping","bronze","SWE","Sweden",FALSE
+32498,1956,"ski jumping","gold","FIN","Finland",FALSE
+32498,1956,"ski jumping","silver","FIN","Finland",FALSE
+32498,1956,"ski jumping","bronze","GER","United Team of Germany (1956,1960,1964)",FALSE
+32498,1960,"ski jumping","gold","GER","United Team of Germany (1956,1960,1964)",FALSE
+32498,1960,"ski jumping","silver","FIN","Finland",FALSE
+32498,1960,"ski jumping","bronze","AUT","Austria",FALSE
+32498,1964,"ski jumping","gold","FIN","Finland",FALSE
+32498,1964,"ski jumping","silver","NOR","Norway",FALSE
+32498,1964,"ski jumping","bronze","NOR","Norway",FALSE
+32498,1964,"ski jumping","gold","NOR","Norway",FALSE
+32498,1964,"ski jumping","silver","FIN","Finland",FALSE
+32498,1964,"ski jumping","bronze","NOR","Norway",FALSE
+32498,1968,"ski jumping","gold","TCH","Czechoslovakia",FALSE
+32498,1968,"ski jumping","silver","AUT","Austria",FALSE
+32498,1968,"ski jumping","bronze","AUT","Austria",FALSE
+32498,1968,"ski jumping","gold","URS","USSR",FALSE
+32498,1968,"ski jumping","silver","TCH","Czechoslovakia",FALSE
+32498,1968,"ski jumping","bronze","NOR","Norway",FALSE
+32498,1972,"ski jumping","gold","JPN","Japan",TRUE
+32498,1972,"ski jumping","silver","JPN","Japan",TRUE
+32498,1972,"ski jumping","bronze","JPN","Japan",TRUE
+32498,1972,"ski jumping","gold","POL","Poland",FALSE
+32498,1972,"ski jumping","silver","SUI","Switzerland",FALSE
+32498,1972,"ski jumping","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+32498,1976,"ski jumping","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32498,1976,"ski jumping","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+32498,1976,"ski jumping","bronze","AUT","Austria",TRUE
+32498,1976,"ski jumping","gold","AUT","Austria",TRUE
+32498,1976,"ski jumping","silver","AUT","Austria",TRUE
+32498,1976,"ski jumping","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+32498,1980,"ski jumping","gold","AUT","Austria",FALSE
+32498,1980,"ski jumping","silver","JPN","Japan",FALSE
+32498,1980,"ski jumping","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+32498,1980,"ski jumping","gold","FIN","Finland",FALSE
+32498,1980,"ski jumping","silver","AUT","Austria",FALSE
+32498,1980,"ski jumping","bronze","FIN","Finland",FALSE
+32498,1984,"ski jumping","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32498,1984,"ski jumping","silver","FIN","Finland",FALSE
+32498,1984,"ski jumping","bronze","FIN","Finland",FALSE
+32498,1984,"ski jumping","gold","FIN","Finland",FALSE
+32498,1984,"ski jumping","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+32498,1984,"ski jumping","bronze","TCH","Czechoslovakia",FALSE
+32498,1988,"ski jumping","gold","FIN","Finland",FALSE
+32498,1988,"ski jumping","silver","TCH","Czechoslovakia",FALSE
+32498,1988,"ski jumping","bronze","TCH","Czechoslovakia",FALSE
+32498,1988,"ski jumping","gold","FIN","Finland",FALSE
+32498,1988,"ski jumping","silver","NOR","Norway",FALSE
+32498,1988,"ski jumping","bronze","YUG","Yugoslavia",FALSE
+32498,1988,"ski jumping","gold","FIN","Finland",FALSE
+32498,1988,"ski jumping","silver","YUG","Yugoslavia",FALSE
+32498,1988,"ski jumping","bronze","NOR","Norway",FALSE
+32498,1992,"ski jumping","gold","AUT","Austria",FALSE
+32498,1992,"ski jumping","silver","AUT","Austria",FALSE
+32498,1992,"ski jumping","bronze","FIN","Finland",FALSE
+32498,1992,"ski jumping","gold","FIN","Finland",FALSE
+32498,1992,"ski jumping","silver","AUT","Austria",FALSE
+32498,1992,"ski jumping","bronze","AUT","Austria",FALSE
+32498,1992,"ski jumping","gold","FIN","Finland",FALSE
+32498,1992,"ski jumping","silver","AUT","Austria",FALSE
+32498,1992,"ski jumping","bronze","TCH","Czechoslovakia",FALSE
+32498,1994,"ski jumping","gold","NOR","Norway",TRUE
+32498,1994,"ski jumping","silver","NOR","Norway",TRUE
+32498,1994,"ski jumping","bronze","GER","Germany",FALSE
+32498,1994,"ski jumping","gold","GER","Germany",FALSE
+32498,1994,"ski jumping","silver","NOR","Norway",TRUE
+32498,1994,"ski jumping","bronze","AUT","Austria",FALSE
+32498,1994,"ski jumping","gold","GER","Germany",FALSE
+32498,1994,"ski jumping","silver","JPN","Japan",FALSE
+32498,1994,"ski jumping","bronze","AUT","Austria",FALSE
+32498,1998,"ski jumping","gold","FIN","Finland",FALSE
+32498,1998,"ski jumping","silver","JPN","Japan",TRUE
+32498,1998,"ski jumping","bronze","AUT","Austria",FALSE
+32498,1998,"ski jumping","gold","JPN","Japan",TRUE
+32498,1998,"ski jumping","silver","FIN","Finland",FALSE
+32498,1998,"ski jumping","bronze","JPN","Japan",TRUE
+32498,1998,"ski jumping","gold","JPN","Japan",TRUE
+32498,1998,"ski jumping","silver","GER","Germany",FALSE
+32498,1998,"ski jumping","bronze","AUT","Austria",FALSE
+32498,2002,"ski jumping","gold","SUI","Switzerland",FALSE
+32498,2002,"ski jumping","silver","GER","Germany",FALSE
+32498,2002,"ski jumping","bronze","POL","Poland",FALSE
+32498,2002,"ski jumping","gold","SUI","Switzerland",FALSE
+32498,2002,"ski jumping","silver","POL","Poland",FALSE
+32498,2002,"ski jumping","bronze","FIN","Finland",FALSE
+32498,2002,"ski jumping","gold","GER","Germany",FALSE
+32498,2002,"ski jumping","silver","FIN","Finland",FALSE
+32498,2002,"ski jumping","bronze","SLO","Slovenia",FALSE
+32498,2006,"ski jumping","gold","NOR","Norway",FALSE
+32498,2006,"ski jumping","silver","FIN","Finland",FALSE
+32498,2006,"ski jumping","bronze","NOR","Norway",FALSE
+32498,2006,"ski jumping","gold","AUT","Austria",FALSE
+32498,2006,"ski jumping","silver","AUT","Austria",FALSE
+32498,2006,"ski jumping","bronze","NOR","Norway",FALSE
+32498,2006,"ski jumping","gold","AUT","Austria",FALSE
+32498,2006,"ski jumping","silver","FIN","Finland",FALSE
+32498,2006,"ski jumping","bronze","NOR","Norway",FALSE
+32498,2010,"ski jumping","gold","SUI","Switzerland",FALSE
+32498,2010,"ski jumping","silver","POL","Poland",FALSE
+32498,2010,"ski jumping","bronze","AUT","Austria",FALSE
+32498,2010,"ski jumping","gold","SUI","Switzerland",FALSE
+32498,2010,"ski jumping","silver","POL","Poland",FALSE
+32498,2010,"ski jumping","bronze","AUT","Austria",FALSE
+32498,2010,"ski jumping","gold","AUT","Austria",FALSE
+32498,2010,"ski jumping","silver","GER","Germany",FALSE
+32498,2010,"ski jumping","bronze","NOR","Norway",FALSE
+31853,1924,"speed skating","gold","FIN","Finland",FALSE
+31853,1924,"speed skating","silver","NOR","Norway",FALSE
+31853,1924,"speed skating","bronze","FIN","Finland",FALSE
+31853,1924,"speed skating","gold","USA","United States of America",FALSE
+31853,1924,"speed skating","silver","NOR","Norway",FALSE
+31853,1924,"speed skating","bronze","FIN","Finland",FALSE
+31853,1924,"speed skating","gold","FIN","Finland",FALSE
+31853,1924,"speed skating","silver","NOR","Norway",FALSE
+31853,1924,"speed skating","bronze","NOR","Norway",FALSE
+31853,1924,"speed skating","gold","FIN","Finland",FALSE
+31853,1924,"speed skating","silver","FIN","Finland",FALSE
+31853,1924,"speed skating","bronze","NOR","Norway",FALSE
+31853,1924,"speed skating","gold","FIN","Finland",FALSE
+31853,1924,"speed skating","silver","FIN","Finland",FALSE
+31853,1924,"speed skating","bronze","NOR","Norway",FALSE
+31853,1928,"speed skating","gold","FIN","Finland",FALSE
+31853,1928,"speed skating","silver","NOR","Norway",FALSE
+31853,1928,"speed skating","bronze","USA","United States of America",FALSE
+31853,1928,"speed skating","gold","FIN","Finland",FALSE
+31853,1928,"speed skating","silver","NOR","Norway",FALSE
+31853,1928,"speed skating","bronze","NOR","Norway",FALSE
+31853,1928,"speed skating","gold","NOR","Norway",FALSE
+31853,1928,"speed skating","silver","FIN","Finland",FALSE
+31853,1928,"speed skating","bronze","NOR","Norway",FALSE
+31853,1932,"speed skating","gold","USA","United States of America",TRUE
+31853,1932,"speed skating","silver","NOR","Norway",FALSE
+31853,1932,"speed skating","bronze","CAN","Canada",FALSE
+31853,1932,"speed skating","gold","USA","United States of America",TRUE
+31853,1932,"speed skating","silver","CAN","Canada",FALSE
+31853,1932,"speed skating","bronze","CAN","Canada",FALSE
+31853,1932,"speed skating","gold","USA","United States of America",TRUE
+31853,1932,"speed skating","silver","USA","United States of America",TRUE
+31853,1932,"speed skating","bronze","CAN","Canada",FALSE
+31853,1932,"speed skating","gold","USA","United States of America",TRUE
+31853,1932,"speed skating","silver","NOR","Norway",FALSE
+31853,1932,"speed skating","bronze","CAN","Canada",FALSE
+31853,1936,"speed skating","gold","NOR","Norway",FALSE
+31853,1936,"speed skating","silver","NOR","Norway",FALSE
+31853,1936,"speed skating","bronze","USA","United States of America",FALSE
+31853,1936,"speed skating","gold","NOR","Norway",FALSE
+31853,1936,"speed skating","silver","NOR","Norway",FALSE
+31853,1936,"speed skating","bronze","FIN","Finland",FALSE
+31853,1936,"speed skating","gold","NOR","Norway",FALSE
+31853,1936,"speed skating","silver","FIN","Finland",FALSE
+31853,1936,"speed skating","bronze","FIN","Finland",FALSE
+31853,1936,"speed skating","gold","NOR","Norway",FALSE
+31853,1936,"speed skating","silver","FIN","Finland",FALSE
+31853,1936,"speed skating","bronze","AUT","Austria",FALSE
+31853,1948,"speed skating","gold","NOR","Norway",FALSE
+31853,1948,"speed skating","silver","USA","United States of America",FALSE
+31853,1948,"speed skating","bronze","NOR","Norway",FALSE
+31853,1948,"speed skating","gold","NOR","Norway",FALSE
+31853,1948,"speed skating","silver","SWE","Sweden",FALSE
+31853,1948,"speed skating","bronze","NOR","Norway",FALSE
+31853,1948,"speed skating","gold","NOR","Norway",FALSE
+31853,1948,"speed skating","silver","NOR","Norway",FALSE
+31853,1948,"speed skating","bronze","SWE","Sweden",FALSE
+31853,1948,"speed skating","gold","SWE","Sweden",FALSE
+31853,1948,"speed skating","silver","FIN","Finland",FALSE
+31853,1948,"speed skating","bronze","FIN","Finland",FALSE
+31853,1952,"speed skating","gold","USA","United States of America",FALSE
+31853,1952,"speed skating","silver","USA","United States of America",FALSE
+31853,1952,"speed skating","bronze","NOR","Norway",TRUE
+31853,1952,"speed skating","gold","NOR","Norway",TRUE
+31853,1952,"speed skating","silver","NED","Netherlands",FALSE
+31853,1952,"speed skating","bronze","NOR","Norway",TRUE
+31853,1952,"speed skating","gold","NOR","Norway",TRUE
+31853,1952,"speed skating","silver","NED","Netherlands",FALSE
+31853,1952,"speed skating","bronze","NOR","Norway",TRUE
+31853,1952,"speed skating","gold","NOR","Norway",TRUE
+31853,1952,"speed skating","silver","NED","Netherlands",FALSE
+31853,1952,"speed skating","bronze","SWE","Sweden",FALSE
+31853,1956,"speed skating","gold","URS","USSR",FALSE
+31853,1956,"speed skating","silver","URS","USSR",FALSE
+31853,1956,"speed skating","bronze","NOR","Norway",FALSE
+31853,1956,"speed skating","gold","URS","USSR",FALSE
+31853,1956,"speed skating","silver","URS","USSR",FALSE
+31853,1956,"speed skating","bronze","FIN","Finland",FALSE
+31853,1956,"speed skating","gold","URS","USSR",FALSE
+31853,1956,"speed skating","silver","SWE","Sweden",FALSE
+31853,1956,"speed skating","bronze","URS","USSR",FALSE
+31853,1956,"speed skating","gold","SWE","Sweden",FALSE
+31853,1956,"speed skating","silver","NOR","Norway",FALSE
+31853,1956,"speed skating","bronze","URS","USSR",FALSE
+31853,1960,"speed skating","gold","URS","USSR",FALSE
+31853,1960,"speed skating","silver","USA","United States of America",TRUE
+31853,1960,"speed skating","bronze","URS","USSR",FALSE
+31853,1960,"speed skating","gold","NOR","Norway",FALSE
+31853,1960,"speed skating","silver","URS","USSR",FALSE
+31853,1960,"speed skating","bronze","URS","USSR",FALSE
+31853,1960,"speed skating","gold","URS","USSR",FALSE
+31853,1960,"speed skating","silver","NOR","Norway",FALSE
+31853,1960,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1960,"speed skating","gold","NOR","Norway",FALSE
+31853,1960,"speed skating","silver","URS","USSR",FALSE
+31853,1960,"speed skating","bronze","SWE","Sweden",FALSE
+31853,1960,"speed skating","gold","GER","United Team of Germany (1956,1960,1964)",FALSE
+31853,1960,"speed skating","silver","URS","USSR",FALSE
+31853,1960,"speed skating","bronze","USA","United States of America",TRUE
+31853,1960,"speed skating","gold","URS","USSR",FALSE
+31853,1960,"speed skating","silver","GER","United Team of Germany (1956,1960,1964)",FALSE
+31853,1960,"speed skating","bronze","URS","USSR",FALSE
+31853,1960,"speed skating","gold","URS","USSR",FALSE
+31853,1960,"speed skating","silver","POL","Poland",FALSE
+31853,1960,"speed skating","bronze","POL","Poland",FALSE
+31853,1960,"speed skating","gold","URS","USSR",FALSE
+31853,1960,"speed skating","silver","URS","USSR",FALSE
+31853,1960,"speed skating","bronze","FIN","Finland",FALSE
+31853,1964,"speed skating","gold","USA","United States of America",FALSE
+31853,1964,"speed skating","silver","URS","USSR",FALSE
+31853,1964,"speed skating","bronze","NOR","Norway",FALSE
+31853,1964,"speed skating","gold","URS","USSR",FALSE
+31853,1964,"speed skating","silver","NED","Netherlands",FALSE
+31853,1964,"speed skating","bronze","NOR","Norway",FALSE
+31853,1964,"speed skating","gold","NOR","Norway",FALSE
+31853,1964,"speed skating","silver","NOR","Norway",FALSE
+31853,1964,"speed skating","bronze","NOR","Norway",FALSE
+31853,1964,"speed skating","gold","SWE","Sweden",FALSE
+31853,1964,"speed skating","silver","NOR","Norway",FALSE
+31853,1964,"speed skating","bronze","NOR","Norway",FALSE
+31853,1964,"speed skating","gold","URS","USSR",FALSE
+31853,1964,"speed skating","silver","URS","USSR",FALSE
+31853,1964,"speed skating","bronze","URS","USSR",FALSE
+31853,1964,"speed skating","gold","URS","USSR",FALSE
+31853,1964,"speed skating","silver","URS","USSR",FALSE
+31853,1964,"speed skating","bronze","FIN","Finland",FALSE
+31853,1964,"speed skating","gold","URS","USSR",FALSE
+31853,1964,"speed skating","silver","FIN","Finland",FALSE
+31853,1964,"speed skating","bronze","URS","USSR",FALSE
+31853,1964,"speed skating","gold","URS","USSR",FALSE
+31853,1964,"speed skating","silver","URS","USSR",FALSE
+31853,1964,"speed skating","bronze","PRK","Democratic People's Republic of Korea",FALSE
+31853,1968,"speed skating","gold","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31853,1968,"speed skating","silver","NOR","Norway",FALSE
+31853,1968,"speed skating","bronze","USA","United States of America",FALSE
+31853,1968,"speed skating","gold","NED","Netherlands",FALSE
+31853,1968,"speed skating","silver","NOR","Norway",FALSE
+31853,1968,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1968,"speed skating","gold","NOR","Norway",FALSE
+31853,1968,"speed skating","silver","NED","Netherlands",FALSE
+31853,1968,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1968,"speed skating","gold","SWE","Sweden",FALSE
+31853,1968,"speed skating","silver","NOR","Norway",FALSE
+31853,1968,"speed skating","bronze","SWE","Sweden",FALSE
+31853,1968,"speed skating","gold","URS","USSR",FALSE
+31853,1968,"speed skating","silver","USA","United States of America",FALSE
+31853,1968,"speed skating","bronze","USA","United States of America",FALSE
+31853,1968,"speed skating","gold","NED","Netherlands",FALSE
+31853,1968,"speed skating","silver","URS","USSR",FALSE
+31853,1968,"speed skating","bronze","USA","United States of America",FALSE
+31853,1968,"speed skating","gold","FIN","Finland",FALSE
+31853,1968,"speed skating","silver","NED","Netherlands",FALSE
+31853,1968,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1968,"speed skating","gold","NED","Netherlands",FALSE
+31853,1968,"speed skating","silver","FIN","Finland",FALSE
+31853,1968,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1972,"speed skating","gold","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31853,1972,"speed skating","silver","SWE","Sweden",FALSE
+31853,1972,"speed skating","bronze","URS","USSR",FALSE
+31853,1972,"speed skating","gold","NED","Netherlands",FALSE
+31853,1972,"speed skating","silver","NOR","Norway",FALSE
+31853,1972,"speed skating","bronze","SWE","Sweden",FALSE
+31853,1972,"speed skating","gold","NED","Netherlands",FALSE
+31853,1972,"speed skating","silver","NOR","Norway",FALSE
+31853,1972,"speed skating","bronze","NOR","Norway",FALSE
+31853,1972,"speed skating","gold","NED","Netherlands",FALSE
+31853,1972,"speed skating","silver","NED","Netherlands",FALSE
+31853,1972,"speed skating","bronze","NOR","Norway",FALSE
+31853,1972,"speed skating","gold","USA","United States of America",FALSE
+31853,1972,"speed skating","silver","URS","USSR",FALSE
+31853,1972,"speed skating","bronze","URS","USSR",FALSE
+31853,1972,"speed skating","gold","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+31853,1972,"speed skating","silver","NED","Netherlands",FALSE
+31853,1972,"speed skating","bronze","USA","United States of America",FALSE
+31853,1972,"speed skating","gold","USA","United States of America",FALSE
+31853,1972,"speed skating","silver","NED","Netherlands",FALSE
+31853,1972,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1972,"speed skating","gold","NED","Netherlands",FALSE
+31853,1972,"speed skating","silver","USA","United States of America",FALSE
+31853,1972,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1976,"speed skating","gold","URS","USSR",FALSE
+31853,1976,"speed skating","silver","URS","USSR",FALSE
+31853,1976,"speed skating","bronze","USA","United States of America",FALSE
+31853,1976,"speed skating","gold","USA","United States of America",FALSE
+31853,1976,"speed skating","silver","NOR","Norway",FALSE
+31853,1976,"speed skating","bronze","URS","USSR",FALSE
+31853,1976,"speed skating","gold","NOR","Norway",FALSE
+31853,1976,"speed skating","silver","URS","USSR",FALSE
+31853,1976,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1976,"speed skating","gold","NOR","Norway",FALSE
+31853,1976,"speed skating","silver","NED","Netherlands",FALSE
+31853,1976,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1976,"speed skating","gold","NED","Netherlands",FALSE
+31853,1976,"speed skating","silver","NOR","Norway",FALSE
+31853,1976,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1976,"speed skating","gold","USA","United States of America",FALSE
+31853,1976,"speed skating","silver","CAN","Canada",FALSE
+31853,1976,"speed skating","bronze","URS","USSR",FALSE
+31853,1976,"speed skating","gold","URS","USSR",FALSE
+31853,1976,"speed skating","silver","USA","United States of America",FALSE
+31853,1976,"speed skating","bronze","USA","United States of America",FALSE
+31853,1976,"speed skating","gold","URS","USSR",FALSE
+31853,1976,"speed skating","silver","USA","United States of America",FALSE
+31853,1976,"speed skating","bronze","URS","USSR",FALSE
+31853,1976,"speed skating","gold","URS","USSR",FALSE
+31853,1976,"speed skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1976,"speed skating","bronze","NOR","Norway",FALSE
+31853,1980,"speed skating","gold","USA","United States of America",TRUE
+31853,1980,"speed skating","silver","URS","USSR",FALSE
+31853,1980,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1980,"speed skating","gold","USA","United States of America",TRUE
+31853,1980,"speed skating","silver","CAN","Canada",FALSE
+31853,1980,"speed skating","bronze","NOR","Norway",FALSE
+31853,1980,"speed skating","gold","USA","United States of America",TRUE
+31853,1980,"speed skating","silver","NOR","Norway",FALSE
+31853,1980,"speed skating","bronze","NOR","Norway",FALSE
+31853,1980,"speed skating","gold","USA","United States of America",TRUE
+31853,1980,"speed skating","silver","NOR","Norway",FALSE
+31853,1980,"speed skating","bronze","NOR","Norway",FALSE
+31853,1980,"speed skating","gold","USA","United States of America",TRUE
+31853,1980,"speed skating","silver","NED","Netherlands",FALSE
+31853,1980,"speed skating","bronze","NOR","Norway",FALSE
+31853,1980,"speed skating","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1980,"speed skating","silver","USA","United States of America",TRUE
+31853,1980,"speed skating","bronze","URS","USSR",FALSE
+31853,1980,"speed skating","gold","URS","USSR",FALSE
+31853,1980,"speed skating","silver","USA","United States of America",TRUE
+31853,1980,"speed skating","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1980,"speed skating","gold","NED","Netherlands",FALSE
+31853,1980,"speed skating","silver","NED","Netherlands",FALSE
+31853,1980,"speed skating","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1980,"speed skating","gold","NOR","Norway",FALSE
+31853,1980,"speed skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1980,"speed skating","bronze","USA","United States of America",TRUE
+31853,1984,"speed skating","gold","URS","USSR",FALSE
+31853,1984,"speed skating","silver","JPN","Japan",FALSE
+31853,1984,"speed skating","bronze","CAN","Canada",FALSE
+31853,1984,"speed skating","gold","CAN","Canada",FALSE
+31853,1984,"speed skating","silver","URS","USSR",FALSE
+31853,1984,"speed skating","bronze","NOR","Norway",FALSE
+31853,1984,"speed skating","gold","CAN","Canada",FALSE
+31853,1984,"speed skating","silver","URS","USSR",FALSE
+31853,1984,"speed skating","bronze","URS","USSR",FALSE
+31853,1984,"speed skating","gold","SWE","Sweden",FALSE
+31853,1984,"speed skating","silver","URS","USSR",FALSE
+31853,1984,"speed skating","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1984,"speed skating","gold","URS","USSR",FALSE
+31853,1984,"speed skating","silver","SWE","Sweden",FALSE
+31853,1984,"speed skating","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1984,"speed skating","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1984,"speed skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1984,"speed skating","bronze","URS","USSR",FALSE
+31853,1984,"speed skating","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1984,"speed skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1984,"speed skating","bronze","URS","USSR",FALSE
+31853,1984,"speed skating","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1984,"speed skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1984,"speed skating","bronze","URS","USSR",FALSE
+31853,1984,"speed skating","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1984,"speed skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1984,"speed skating","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1988,"speed skating","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1988,"speed skating","silver","NED","Netherlands",FALSE
+31853,1988,"speed skating","bronze","JPN","Japan",FALSE
+31853,1988,"speed skating","gold","URS","USSR",FALSE
+31853,1988,"speed skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1988,"speed skating","bronze","URS","USSR",FALSE
+31853,1988,"speed skating","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1988,"speed skating","silver","USA","United States of America",FALSE
+31853,1988,"speed skating","bronze","AUT","Austria",FALSE
+31853,1988,"speed skating","gold","SWE","Sweden",FALSE
+31853,1988,"speed skating","silver","NED","Netherlands",FALSE
+31853,1988,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1988,"speed skating","gold","SWE","Sweden",FALSE
+31853,1988,"speed skating","silver","AUT","Austria",FALSE
+31853,1988,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1988,"speed skating","gold","USA","United States of America",FALSE
+31853,1988,"speed skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1988,"speed skating","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1988,"speed skating","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1988,"speed skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1988,"speed skating","bronze","USA","United States of America",FALSE
+31853,1988,"speed skating","gold","NED","Netherlands",FALSE
+31853,1988,"speed skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1988,"speed skating","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1988,"speed skating","gold","NED","Netherlands",FALSE
+31853,1988,"speed skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1988,"speed skating","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1988,"speed skating","gold","NED","Netherlands",FALSE
+31853,1988,"speed skating","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1988,"speed skating","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+31853,1992,"speed skating","gold","GER","Germany",FALSE
+31853,1992,"speed skating","silver","JPN","Japan",FALSE
+31853,1992,"speed skating","bronze","JPN","Japan",FALSE
+31853,1992,"speed skating","gold","GER","Germany",FALSE
+31853,1992,"speed skating","silver","KOR","Republic of Korea",FALSE
+31853,1992,"speed skating","bronze","JPN","Japan",FALSE
+31853,1992,"speed skating","gold","NOR","Norway",FALSE
+31853,1992,"speed skating","silver","NOR","Norway",FALSE
+31853,1992,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1992,"speed skating","gold","NOR","Norway",FALSE
+31853,1992,"speed skating","silver","NED","Netherlands",FALSE
+31853,1992,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1992,"speed skating","gold","NED","Netherlands",FALSE
+31853,1992,"speed skating","silver","NOR","Norway",FALSE
+31853,1992,"speed skating","bronze","NOR","Norway",FALSE
+31853,1992,"speed skating","gold","USA","United States of America",FALSE
+31853,1992,"speed skating","silver","CHN","People's Republic of China",FALSE
+31853,1992,"speed skating","bronze","GER","Germany",FALSE
+31853,1992,"speed skating","gold","USA","United States of America",FALSE
+31853,1992,"speed skating","silver","CHN","People's Republic of China",FALSE
+31853,1992,"speed skating","bronze","GER","Germany",FALSE
+31853,1992,"speed skating","gold","GER","Germany",FALSE
+31853,1992,"speed skating","silver","GER","Germany",FALSE
+31853,1992,"speed skating","bronze","JPN","Japan",FALSE
+31853,1992,"speed skating","gold","GER","Germany",FALSE
+31853,1992,"speed skating","silver","GER","Germany",FALSE
+31853,1992,"speed skating","bronze","AUT","Austria",FALSE
+31853,1992,"speed skating","gold","GER","Germany",FALSE
+31853,1992,"speed skating","silver","GER","Germany",FALSE
+31853,1992,"speed skating","bronze","GER","Germany",FALSE
+31853,1994,"speed skating","gold","RUS","Russian Federation",FALSE
+31853,1994,"speed skating","silver","RUS","Russian Federation",FALSE
+31853,1994,"speed skating","bronze","JPN","Japan",FALSE
+31853,1994,"speed skating","gold","USA","United States of America",FALSE
+31853,1994,"speed skating","silver","BLR","Belarus",FALSE
+31853,1994,"speed skating","bronze","RUS","Russian Federation",FALSE
+31853,1994,"speed skating","gold","NOR","Norway",TRUE
+31853,1994,"speed skating","silver","NED","Netherlands",FALSE
+31853,1994,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1994,"speed skating","gold","NOR","Norway",TRUE
+31853,1994,"speed skating","silver","NOR","Norway",TRUE
+31853,1994,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1994,"speed skating","gold","NOR","Norway",TRUE
+31853,1994,"speed skating","silver","NOR","Norway",TRUE
+31853,1994,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1994,"speed skating","gold","USA","United States of America",FALSE
+31853,1994,"speed skating","silver","CAN","Canada",FALSE
+31853,1994,"speed skating","bronze","GER","Germany",FALSE
+31853,1994,"speed skating","gold","USA","United States of America",FALSE
+31853,1994,"speed skating","silver","GER","Germany",FALSE
+31853,1994,"speed skating","bronze","CHN","People's Republic of China",FALSE
+31853,1994,"speed skating","gold","AUT","Austria",FALSE
+31853,1994,"speed skating","silver","RUS","Russian Federation",FALSE
+31853,1994,"speed skating","bronze","GER","Germany",FALSE
+31853,1994,"speed skating","gold","RUS","Russian Federation",FALSE
+31853,1994,"speed skating","silver","AUT","Austria",FALSE
+31853,1994,"speed skating","bronze","GER","Germany",FALSE
+31853,1994,"speed skating","gold","GER","Germany",FALSE
+31853,1994,"speed skating","silver","GER","Germany",FALSE
+31853,1994,"speed skating","bronze","JPN","Japan",FALSE
+31853,1998,"speed skating","gold","JPN","Japan",TRUE
+31853,1998,"speed skating","silver","CAN","Canada",FALSE
+31853,1998,"speed skating","bronze","CAN","Canada",FALSE
+31853,1998,"speed skating","gold","NED","Netherlands",FALSE
+31853,1998,"speed skating","silver","NED","Netherlands",FALSE
+31853,1998,"speed skating","bronze","JPN","Japan",TRUE
+31853,1998,"speed skating","gold","NOR","Norway",FALSE
+31853,1998,"speed skating","silver","NED","Netherlands",FALSE
+31853,1998,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1998,"speed skating","gold","NED","Netherlands",FALSE
+31853,1998,"speed skating","silver","NED","Netherlands",FALSE
+31853,1998,"speed skating","bronze","BEL","Belgium",FALSE
+31853,1998,"speed skating","gold","NED","Netherlands",FALSE
+31853,1998,"speed skating","silver","NED","Netherlands",FALSE
+31853,1998,"speed skating","bronze","NED","Netherlands",FALSE
+31853,1998,"speed skating","gold","CAN","Canada",FALSE
+31853,1998,"speed skating","silver","CAN","Canada",FALSE
+31853,1998,"speed skating","bronze","JPN","Japan",TRUE
+31853,1998,"speed skating","gold","NED","Netherlands",FALSE
+31853,1998,"speed skating","silver","USA","United States of America",FALSE
+31853,1998,"speed skating","bronze","CAN","Canada",FALSE
+31853,1998,"speed skating","gold","NED","Netherlands",FALSE
+31853,1998,"speed skating","silver","GER","Germany",FALSE
+31853,1998,"speed skating","bronze","USA","United States of America",FALSE
+31853,1998,"speed skating","gold","GER","Germany",FALSE
+31853,1998,"speed skating","silver","GER","Germany",FALSE
+31853,1998,"speed skating","bronze","GER","Germany",FALSE
+31853,1998,"speed skating","gold","GER","Germany",FALSE
+31853,1998,"speed skating","silver","GER","Germany",FALSE
+31853,1998,"speed skating","bronze","KAZ","Kazakhstan",FALSE
+31853,2002,"speed skating","gold","USA","United States of America",TRUE
+31853,2002,"speed skating","silver","JPN","Japan",FALSE
+31853,2002,"speed skating","bronze","USA","United States of America",TRUE
+31853,2002,"speed skating","gold","NED","Netherlands",FALSE
+31853,2002,"speed skating","silver","NED","Netherlands",FALSE
+31853,2002,"speed skating","bronze","USA","United States of America",TRUE
+31853,2002,"speed skating","gold","USA","United States of America",TRUE
+31853,2002,"speed skating","silver","NED","Netherlands",FALSE
+31853,2002,"speed skating","bronze","NOR","Norway",FALSE
+31853,2002,"speed skating","gold","NED","Netherlands",FALSE
+31853,2002,"speed skating","silver","USA","United States of America",TRUE
+31853,2002,"speed skating","bronze","GER","Germany",FALSE
+31853,2002,"speed skating","gold","NED","Netherlands",FALSE
+31853,2002,"speed skating","silver","NED","Netherlands",FALSE
+31853,2002,"speed skating","bronze","NOR","Norway",FALSE
+31853,2002,"speed skating","gold","CAN","Canada",FALSE
+31853,2002,"speed skating","silver","GER","Germany",FALSE
+31853,2002,"speed skating","bronze","GER","Germany",FALSE
+31853,2002,"speed skating","gold","USA","United States of America",TRUE
+31853,2002,"speed skating","silver","GER","Germany",FALSE
+31853,2002,"speed skating","bronze","USA","United States of America",TRUE
+31853,2002,"speed skating","gold","GER","Germany",FALSE
+31853,2002,"speed skating","silver","GER","Germany",FALSE
+31853,2002,"speed skating","bronze","USA","United States of America",TRUE
+31853,2002,"speed skating","gold","GER","Germany",FALSE
+31853,2002,"speed skating","silver","NED","Netherlands",FALSE
+31853,2002,"speed skating","bronze","CAN","Canada",FALSE
+31853,2002,"speed skating","gold","GER","Germany",FALSE
+31853,2002,"speed skating","silver","NED","Netherlands",FALSE
+31853,2002,"speed skating","bronze","CAN","Canada",FALSE
+31853,2006,"speed skating","gold","USA","United States of America",FALSE
+31853,2006,"speed skating","silver","USA","United States of America",FALSE
+31853,2006,"speed skating","bronze","NED","Netherlands",FALSE
+31853,2006,"speed skating","gold","ITA","Italy",TRUE
+31853,2006,"speed skating","silver","USA","United States of America",FALSE
+31853,2006,"speed skating","bronze","USA","United States of America",FALSE
+31853,2006,"speed skating","gold","USA","United States of America",FALSE
+31853,2006,"speed skating","silver","NED","Netherlands",FALSE
+31853,2006,"speed skating","bronze","ITA","Italy",TRUE
+31853,2006,"speed skating","gold","NED","Netherlands",FALSE
+31853,2006,"speed skating","silver","USA","United States of America",FALSE
+31853,2006,"speed skating","bronze","NED","Netherlands",FALSE
+31853,2006,"speed skating","gold","USA","United States of America",FALSE
+31853,2006,"speed skating","silver","RUS","Russian Federation",FALSE
+31853,2006,"speed skating","bronze","KOR","Republic of Korea",FALSE
+31853,2006,"speed skating","gold","ITA","Italy",TRUE
+31853,2006,"speed skating","silver","CAN","Canada",FALSE
+31853,2006,"speed skating","bronze","NED","Netherlands",FALSE
+31853,2006,"speed skating","gold","NED","Netherlands",FALSE
+31853,2006,"speed skating","silver","CAN","Canada",FALSE
+31853,2006,"speed skating","bronze","GER","Germany",FALSE
+31853,2006,"speed skating","gold","CAN","Canada",FALSE
+31853,2006,"speed skating","silver","CAN","Canada",FALSE
+31853,2006,"speed skating","bronze","NED","Netherlands",FALSE
+31853,2006,"speed skating","gold","NED","Netherlands",FALSE
+31853,2006,"speed skating","silver","NED","Netherlands",FALSE
+31853,2006,"speed skating","bronze","CAN","Canada",FALSE
+31853,2006,"speed skating","gold","CAN","Canada",FALSE
+31853,2006,"speed skating","silver","GER","Germany",FALSE
+31853,2006,"speed skating","bronze","CAN","Canada",FALSE
+31853,2006,"speed skating","gold","RUS","Russian Federation",FALSE
+31853,2006,"speed skating","silver","CHN","People's Republic of China",FALSE
+31853,2006,"speed skating","bronze","CHN","People's Republic of China",FALSE
+31853,2006,"speed skating","gold","GER","Germany",FALSE
+31853,2006,"speed skating","silver","CAN","Canada",FALSE
+31853,2006,"speed skating","bronze","RUS","Russian Federation",FALSE
+31853,2010,"speed skating","gold","USA","United States of America",FALSE
+31853,2010,"speed skating","silver","KOR","Republic of Korea",FALSE
+31853,2010,"speed skating","bronze","USA","United States of America",FALSE
+31853,2010,"speed skating","gold","NED","Netherlands",FALSE
+31853,2010,"speed skating","silver","USA","United States of America",FALSE
+31853,2010,"speed skating","bronze","NOR","Norway",FALSE
+31853,2010,"speed skating","gold","NED","Netherlands",FALSE
+31853,2010,"speed skating","silver","KOR","Republic of Korea",FALSE
+31853,2010,"speed skating","bronze","RUS","Russian Federation",FALSE
+31853,2010,"speed skating","gold","KOR","Republic of Korea",FALSE
+31853,2010,"speed skating","silver","RUS","Russian Federation",FALSE
+31853,2010,"speed skating","bronze","NED","Netherlands",FALSE
+31853,2010,"speed skating","gold","KOR","Republic of Korea",FALSE
+31853,2010,"speed skating","silver","JPN","Japan",FALSE
+31853,2010,"speed skating","bronze","JPN","Japan",FALSE
+31853,2010,"speed skating","gold","CAN","Canada",TRUE
+31853,2010,"speed skating","silver","USA","United States of America",FALSE
+31853,2010,"speed skating","bronze","NED","Netherlands",FALSE
+31853,2010,"speed skating","gold","CAN","Canada",TRUE
+31853,2010,"speed skating","silver","NED","Netherlands",FALSE
+31853,2010,"speed skating","bronze","NED","Netherlands",FALSE
+31853,2010,"speed skating","gold","NED","Netherlands",FALSE
+31853,2010,"speed skating","silver","CAN","Canada",TRUE
+31853,2010,"speed skating","bronze","CZE","Czech Republic",FALSE
+31853,2010,"speed skating","gold","CZE","Czech Republic",FALSE
+31853,2010,"speed skating","silver","GER","Germany",FALSE
+31853,2010,"speed skating","bronze","CAN","Canada",TRUE
+31853,2010,"speed skating","gold","CZE","Czech Republic",FALSE
+31853,2010,"speed skating","silver","GER","Germany",FALSE
+31853,2010,"speed skating","bronze","CAN","Canada",TRUE
+31853,2010,"speed skating","gold","KOR","Republic of Korea",FALSE
+31853,2010,"speed skating","silver","GER","Germany",FALSE
+31853,2010,"speed skating","bronze","CHN","People's Republic of China",FALSE
+31853,2010,"speed skating","gold","GER","Germany",FALSE
+31853,2010,"speed skating","silver","JPN","Japan",FALSE
+31853,2010,"speed skating","bronze","POL","Poland",FALSE
+31704,1924,"curling","gold","GBR","Great Britain",FALSE
+31704,1924,"curling","silver","SWE","Sweden",FALSE
+31704,1924,"curling","bronze","FRA","France",TRUE
+31704,1998,"curling","gold","SUI","Switzerland",FALSE
+31704,1998,"curling","silver","CAN","Canada",FALSE
+31704,1998,"curling","bronze","NOR","Norway",FALSE
+31704,1998,"curling","gold","CAN","Canada",FALSE
+31704,1998,"curling","silver","DEN","Denmark",FALSE
+31704,2002,"curling","gold","NOR","Norway",FALSE
+31704,2002,"curling","silver","CAN","Canada",FALSE
+31704,2002,"curling","bronze","SUI","Switzerland",FALSE
+31704,2002,"curling","gold","GBR","Great Britain",FALSE
+31704,2002,"curling","silver","SUI","Switzerland",FALSE
+31704,2002,"curling","bronze","CAN","Canada",FALSE
+31704,2006,"curling","gold","CAN","Canada",FALSE
+31704,2006,"curling","silver","FIN","Finland",FALSE
+31704,2006,"curling","bronze","USA","United States of America",FALSE
+31704,2006,"curling","gold","SWE","Sweden",FALSE
+31704,2006,"curling","silver","SUI","Switzerland",FALSE
+31704,2006,"curling","bronze","CAN","Canada",FALSE
+31704,2010,"curling","gold","CAN","Canada",TRUE
+31704,2010,"curling","silver","NOR","Norway",FALSE
+31704,2010,"curling","bronze","SUI","Switzerland",FALSE
+31704,2010,"curling","gold","SWE","Sweden",FALSE
+31704,2010,"curling","silver","CAN","Canada",TRUE
+31704,2010,"curling","bronze","CHN","People's Republic of China",FALSE
+58171,1936,"alpine skiing","gold","GER","Germany",TRUE
+58171,1936,"alpine skiing","silver","GER","Germany",TRUE
+58171,1936,"alpine skiing","bronze","FRA","France",FALSE
+58171,1936,"alpine skiing","gold","GER","Germany",TRUE
+58171,1936,"alpine skiing","silver","GER","Germany",TRUE
+58171,1936,"alpine skiing","bronze","NOR","Norway",FALSE
+58171,1948,"alpine skiing","gold","FRA","France",FALSE
+58171,1948,"alpine skiing","silver","SUI","Switzerland",TRUE
+58171,1948,"alpine skiing","bronze","FRA","France",FALSE
+58171,1948,"alpine skiing","gold","FRA","France",FALSE
+58171,1948,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1948,"alpine skiing","bronze","SUI","Switzerland",TRUE
+58171,1948,"alpine skiing","gold","SUI","Switzerland",TRUE
+58171,1948,"alpine skiing","silver","FRA","France",FALSE
+58171,1948,"alpine skiing","bronze","FRA","France",FALSE
+58171,1948,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1948,"alpine skiing","silver","USA","United States of America",FALSE
+58171,1948,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1948,"alpine skiing","gold","SUI","Switzerland",TRUE
+58171,1948,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1948,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1948,"alpine skiing","gold","USA","United States of America",FALSE
+58171,1948,"alpine skiing","silver","SUI","Switzerland",TRUE
+58171,1948,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1952,"alpine skiing","gold","ITA","Italy",FALSE
+58171,1952,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1952,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1952,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1952,"alpine skiing","silver","NOR","Norway",TRUE
+58171,1952,"alpine skiing","bronze","NOR","Norway",TRUE
+58171,1952,"alpine skiing","gold","NOR","Norway",TRUE
+58171,1952,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1952,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1952,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1952,"alpine skiing","silver","GER","Germany",FALSE
+58171,1952,"alpine skiing","bronze","ITA","Italy",FALSE
+58171,1952,"alpine skiing","gold","USA","United States of America",FALSE
+58171,1952,"alpine skiing","silver","GER","Germany",FALSE
+58171,1952,"alpine skiing","bronze","GER","Germany",FALSE
+58171,1952,"alpine skiing","gold","USA","United States of America",FALSE
+58171,1952,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1952,"alpine skiing","bronze","GER","Germany",FALSE
+58171,1956,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1956,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1956,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1956,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1956,"alpine skiing","silver","JPN","Japan",FALSE
+58171,1956,"alpine skiing","bronze","SWE","Sweden",FALSE
+58171,1956,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1956,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1956,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1956,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1956,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1956,"alpine skiing","bronze","CAN","Canada",FALSE
+58171,1956,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1956,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1956,"alpine skiing","bronze","URS","USSR",FALSE
+58171,1956,"alpine skiing","gold","GER","United Team of Germany (1956,1960,1964)",FALSE
+58171,1956,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1956,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1960,"alpine skiing","gold","FRA","France",FALSE
+58171,1960,"alpine skiing","silver","GER","United Team of Germany (1956,1960,1964)",FALSE
+58171,1960,"alpine skiing","bronze","FRA","France",FALSE
+58171,1960,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1960,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1960,"alpine skiing","bronze","FRA","France",FALSE
+58171,1960,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1960,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1960,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1960,"alpine skiing","gold","GER","United Team of Germany (1956,1960,1964)",FALSE
+58171,1960,"alpine skiing","silver","USA","United States of America",TRUE
+58171,1960,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1960,"alpine skiing","gold","CAN","Canada",FALSE
+58171,1960,"alpine skiing","silver","USA","United States of America",TRUE
+58171,1960,"alpine skiing","bronze","GER","United Team of Germany (1956,1960,1964)",FALSE
+58171,1960,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1960,"alpine skiing","silver","USA","United States of America",TRUE
+58171,1960,"alpine skiing","bronze","ITA","Italy",FALSE
+58171,1964,"alpine skiing","gold","AUT","Austria",TRUE
+58171,1964,"alpine skiing","silver","FRA","France",FALSE
+58171,1964,"alpine skiing","bronze","GER","United Team of Germany (1956,1960,1964)",FALSE
+58171,1964,"alpine skiing","gold","AUT","Austria",TRUE
+58171,1964,"alpine skiing","silver","USA","United States of America",FALSE
+58171,1964,"alpine skiing","bronze","USA","United States of America",FALSE
+58171,1964,"alpine skiing","gold","FRA","France",FALSE
+58171,1964,"alpine skiing","silver","AUT","Austria",TRUE
+58171,1964,"alpine skiing","bronze","AUT","Austria",TRUE
+58171,1964,"alpine skiing","gold","AUT","Austria",TRUE
+58171,1964,"alpine skiing","silver","AUT","Austria",TRUE
+58171,1964,"alpine skiing","bronze","AUT","Austria",TRUE
+58171,1964,"alpine skiing","gold","FRA","France",FALSE
+58171,1964,"alpine skiing","silver","FRA","France",FALSE
+58171,1964,"alpine skiing","bronze","USA","United States of America",FALSE
+58171,1964,"alpine skiing","gold","FRA","France",FALSE
+58171,1964,"alpine skiing","silver","USA","United States of America",FALSE
+58171,1964,"alpine skiing","bronze","FRA","France",FALSE
+58171,1968,"alpine skiing","gold","FRA","France",TRUE
+58171,1968,"alpine skiing","silver","FRA","France",TRUE
+58171,1968,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1968,"alpine skiing","gold","FRA","France",TRUE
+58171,1968,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1968,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1968,"alpine skiing","gold","FRA","France",TRUE
+58171,1968,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1968,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1968,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1968,"alpine skiing","silver","FRA","France",TRUE
+58171,1968,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1968,"alpine skiing","gold","FRA","France",TRUE
+58171,1968,"alpine skiing","silver","CAN","Canada",FALSE
+58171,1968,"alpine skiing","bronze","FRA","France",TRUE
+58171,1968,"alpine skiing","gold","CAN","Canada",FALSE
+58171,1968,"alpine skiing","silver","FRA","France",TRUE
+58171,1968,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1972,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1972,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1972,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1972,"alpine skiing","gold","ESP","Spain",FALSE
+58171,1972,"alpine skiing","silver","ITA","Italy",FALSE
+58171,1972,"alpine skiing","bronze","ITA","Italy",FALSE
+58171,1972,"alpine skiing","gold","ITA","Italy",FALSE
+58171,1972,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1972,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1972,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1972,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1972,"alpine skiing","bronze","USA","United States of America",FALSE
+58171,1972,"alpine skiing","gold","USA","United States of America",FALSE
+58171,1972,"alpine skiing","silver","FRA","France",FALSE
+58171,1972,"alpine skiing","bronze","FRA","France",FALSE
+58171,1972,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1972,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1972,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1976,"alpine skiing","gold","AUT","Austria",TRUE
+58171,1976,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1976,"alpine skiing","bronze","ITA","Italy",FALSE
+58171,1976,"alpine skiing","gold","ITA","Italy",FALSE
+58171,1976,"alpine skiing","silver","ITA","Italy",FALSE
+58171,1976,"alpine skiing","bronze","LIE","Liechtenstein",FALSE
+58171,1976,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1976,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1976,"alpine skiing","bronze","SWE","Sweden",FALSE
+58171,1976,"alpine skiing","gold","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+58171,1976,"alpine skiing","silver","AUT","Austria",TRUE
+58171,1976,"alpine skiing","bronze","USA","United States of America",FALSE
+58171,1976,"alpine skiing","gold","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+58171,1976,"alpine skiing","silver","ITA","Italy",FALSE
+58171,1976,"alpine skiing","bronze","LIE","Liechtenstein",FALSE
+58171,1976,"alpine skiing","gold","CAN","Canada",FALSE
+58171,1976,"alpine skiing","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+58171,1976,"alpine skiing","bronze","FRA","France",FALSE
+58171,1980,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1980,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1980,"alpine skiing","bronze","CAN","Canada",FALSE
+58171,1980,"alpine skiing","gold","SWE","Sweden",FALSE
+58171,1980,"alpine skiing","silver","USA","United States of America",TRUE
+58171,1980,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1980,"alpine skiing","gold","SWE","Sweden",FALSE
+58171,1980,"alpine skiing","silver","LIE","Liechtenstein",FALSE
+58171,1980,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1980,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1980,"alpine skiing","silver","LIE","Liechtenstein",FALSE
+58171,1980,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1980,"alpine skiing","gold","LIE","Liechtenstein",FALSE
+58171,1980,"alpine skiing","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+58171,1980,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1980,"alpine skiing","gold","LIE","Liechtenstein",FALSE
+58171,1980,"alpine skiing","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+58171,1980,"alpine skiing","bronze","FRA","France",FALSE
+58171,1984,"alpine skiing","gold","USA","United States of America",FALSE
+58171,1984,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1984,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1984,"alpine skiing","gold","USA","United States of America",FALSE
+58171,1984,"alpine skiing","silver","USA","United States of America",FALSE
+58171,1984,"alpine skiing","bronze","FRA","France",FALSE
+58171,1984,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1984,"alpine skiing","silver","YUG","Yugoslavia",TRUE
+58171,1984,"alpine skiing","bronze","LIE","Liechtenstein",FALSE
+58171,1984,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1984,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1984,"alpine skiing","bronze","TCH","Czechoslovakia",FALSE
+58171,1984,"alpine skiing","gold","ITA","Italy",FALSE
+58171,1984,"alpine skiing","silver","FRA","France",FALSE
+58171,1984,"alpine skiing","bronze","LIE","Liechtenstein",FALSE
+58171,1984,"alpine skiing","gold","USA","United States of America",FALSE
+58171,1984,"alpine skiing","silver","USA","United States of America",FALSE
+58171,1984,"alpine skiing","bronze","FRA","France",FALSE
+58171,1988,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1988,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1988,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1988,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1988,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1988,"alpine skiing","bronze","FRA","France",FALSE
+58171,1988,"alpine skiing","gold","ITA","Italy",FALSE
+58171,1988,"alpine skiing","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+58171,1988,"alpine skiing","bronze","LIE","Liechtenstein",FALSE
+58171,1988,"alpine skiing","gold","ITA","Italy",FALSE
+58171,1988,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1988,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1988,"alpine skiing","gold","FRA","France",FALSE
+58171,1988,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1988,"alpine skiing","bronze","SWE","Sweden",FALSE
+58171,1988,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1988,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1988,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1988,"alpine skiing","gold","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+58171,1988,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1988,"alpine skiing","bronze","CAN","Canada",TRUE
+58171,1988,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1988,"alpine skiing","silver","YUG","Yugoslavia",FALSE
+58171,1988,"alpine skiing","bronze","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+58171,1988,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1988,"alpine skiing","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+58171,1988,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1988,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1988,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1988,"alpine skiing","bronze","CAN","Canada",TRUE
+58171,1992,"alpine skiing","gold","ITA","Italy",FALSE
+58171,1992,"alpine skiing","silver","ITA","Italy",FALSE
+58171,1992,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1992,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1992,"alpine skiing","silver","FRA","France",TRUE
+58171,1992,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1992,"alpine skiing","gold","NOR","Norway",FALSE
+58171,1992,"alpine skiing","silver","ITA","Italy",FALSE
+58171,1992,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1992,"alpine skiing","gold","ITA","Italy",FALSE
+58171,1992,"alpine skiing","silver","LUX","Luxembourg",FALSE
+58171,1992,"alpine skiing","bronze","NOR","Norway",FALSE
+58171,1992,"alpine skiing","gold","NOR","Norway",FALSE
+58171,1992,"alpine skiing","silver","LUX","Luxembourg",FALSE
+58171,1992,"alpine skiing","bronze","NOR","Norway",FALSE
+58171,1992,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1992,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1992,"alpine skiing","bronze","FRA","France",TRUE
+58171,1992,"alpine skiing","gold","CAN","Canada",FALSE
+58171,1992,"alpine skiing","silver","USA","United States of America",FALSE
+58171,1992,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1992,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1992,"alpine skiing","silver","NZL","New Zealand",FALSE
+58171,1992,"alpine skiing","bronze","ESP","Spain",FALSE
+58171,1992,"alpine skiing","gold","SWE","Sweden",FALSE
+58171,1992,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1992,"alpine skiing","bronze","USA","United States of America",FALSE
+58171,1992,"alpine skiing","gold","ITA","Italy",FALSE
+58171,1992,"alpine skiing","silver","FRA","France",TRUE
+58171,1992,"alpine skiing","bronze","GER","Germany",FALSE
+58171,1994,"alpine skiing","gold","NOR","Norway",TRUE
+58171,1994,"alpine skiing","silver","NOR","Norway",TRUE
+58171,1994,"alpine skiing","bronze","NOR","Norway",TRUE
+58171,1994,"alpine skiing","gold","USA","United States of America",FALSE
+58171,1994,"alpine skiing","silver","NOR","Norway",TRUE
+58171,1994,"alpine skiing","bronze","CAN","Canada",FALSE
+58171,1994,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1994,"alpine skiing","silver","ITA","Italy",FALSE
+58171,1994,"alpine skiing","bronze","SLO","Slovenia",FALSE
+58171,1994,"alpine skiing","gold","GER","Germany",FALSE
+58171,1994,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1994,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1994,"alpine skiing","gold","GER","Germany",FALSE
+58171,1994,"alpine skiing","silver","USA","United States of America",FALSE
+58171,1994,"alpine skiing","bronze","NOR","Norway",TRUE
+58171,1994,"alpine skiing","gold","SWE","Sweden",FALSE
+58171,1994,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,1994,"alpine skiing","bronze","SLO","Slovenia",FALSE
+58171,1994,"alpine skiing","gold","GER","Germany",FALSE
+58171,1994,"alpine skiing","silver","USA","United States of America",FALSE
+58171,1994,"alpine skiing","bronze","ITA","Italy",FALSE
+58171,1994,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,1994,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1994,"alpine skiing","bronze","SLO","Slovenia",FALSE
+58171,1994,"alpine skiing","gold","ITA","Italy",FALSE
+58171,1994,"alpine skiing","silver","GER","Germany",FALSE
+58171,1994,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1994,"alpine skiing","gold","USA","United States of America",FALSE
+58171,1994,"alpine skiing","silver","RUS","Russian Federation",FALSE
+58171,1994,"alpine skiing","bronze","ITA","Italy",FALSE
+58171,1998,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1998,"alpine skiing","silver","NOR","Norway",FALSE
+58171,1998,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1998,"alpine skiing","gold","FRA","France",FALSE
+58171,1998,"alpine skiing","silver","NOR","Norway",FALSE
+58171,1998,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1998,"alpine skiing","gold","NOR","Norway",FALSE
+58171,1998,"alpine skiing","silver","NOR","Norway",FALSE
+58171,1998,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,1998,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1998,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1998,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1998,"alpine skiing","gold","AUT","Austria",FALSE
+58171,1998,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1998,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,1998,"alpine skiing","gold","GER","Germany",FALSE
+58171,1998,"alpine skiing","silver","GER","Germany",FALSE
+58171,1998,"alpine skiing","bronze","GER","Germany",FALSE
+58171,1998,"alpine skiing","gold","GER","Germany",FALSE
+58171,1998,"alpine skiing","silver","SWE","Sweden",FALSE
+58171,1998,"alpine skiing","bronze","FRA","France",FALSE
+58171,1998,"alpine skiing","gold","GER","Germany",FALSE
+58171,1998,"alpine skiing","silver","ITA","Italy",FALSE
+58171,1998,"alpine skiing","bronze","AUS","Australia",FALSE
+58171,1998,"alpine skiing","gold","ITA","Italy",FALSE
+58171,1998,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1998,"alpine skiing","bronze","GER","Germany",FALSE
+58171,1998,"alpine skiing","gold","USA","United States of America",FALSE
+58171,1998,"alpine skiing","silver","AUT","Austria",FALSE
+58171,1998,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,2002,"alpine skiing","gold","NOR","Norway",FALSE
+58171,2002,"alpine skiing","silver","USA","United States of America",TRUE
+58171,2002,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,2002,"alpine skiing","gold","AUT","Austria",FALSE
+58171,2002,"alpine skiing","silver","NOR","Norway",FALSE
+58171,2002,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,2002,"alpine skiing","gold","FRA","France",FALSE
+58171,2002,"alpine skiing","silver","FRA","France",FALSE
+58171,2002,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,2002,"alpine skiing","gold","AUT","Austria",FALSE
+58171,2002,"alpine skiing","silver","USA","United States of America",TRUE
+58171,2002,"alpine skiing","bronze","NOR","Norway",FALSE
+58171,2002,"alpine skiing","gold","NOR","Norway",FALSE
+58171,2002,"alpine skiing","silver","AUT","Austria",FALSE
+58171,2002,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,2002,"alpine skiing","gold","CRO","Croatia",FALSE
+58171,2002,"alpine skiing","silver","AUT","Austria",FALSE
+58171,2002,"alpine skiing","bronze","GER","Germany",FALSE
+58171,2002,"alpine skiing","gold","FRA","France",FALSE
+58171,2002,"alpine skiing","silver","ITA","Italy",FALSE
+58171,2002,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,2002,"alpine skiing","gold","CRO","Croatia",FALSE
+58171,2002,"alpine skiing","silver","FRA","France",FALSE
+58171,2002,"alpine skiing","bronze","SWE","Sweden",FALSE
+58171,2002,"alpine skiing","gold","CRO","Croatia",FALSE
+58171,2002,"alpine skiing","silver","SWE","Sweden",FALSE
+58171,2002,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,2002,"alpine skiing","gold","ITA","Italy",FALSE
+58171,2002,"alpine skiing","silver","CRO","Croatia",FALSE
+58171,2002,"alpine skiing","bronze","ITA","Italy",FALSE
+58171,2006,"alpine skiing","gold","FRA","France",FALSE
+58171,2006,"alpine skiing","silver","AUT","Austria",FALSE
+58171,2006,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,2006,"alpine skiing","gold","AUT","Austria",FALSE
+58171,2006,"alpine skiing","silver","AUT","Austria",FALSE
+58171,2006,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,2006,"alpine skiing","gold","AUT","Austria",FALSE
+58171,2006,"alpine skiing","silver","FRA","France",FALSE
+58171,2006,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,2006,"alpine skiing","gold","NOR","Norway",FALSE
+58171,2006,"alpine skiing","silver","AUT","Austria",FALSE
+58171,2006,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,2006,"alpine skiing","gold","USA","United States of America",FALSE
+58171,2006,"alpine skiing","silver","CRO","Croatia",FALSE
+58171,2006,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,2006,"alpine skiing","gold","AUT","Austria",FALSE
+58171,2006,"alpine skiing","silver","SUI","Switzerland",FALSE
+58171,2006,"alpine skiing","bronze","SWE","Sweden",FALSE
+58171,2006,"alpine skiing","gold","SWE","Sweden",FALSE
+58171,2006,"alpine skiing","silver","AUT","Austria",FALSE
+58171,2006,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,2006,"alpine skiing","gold","USA","United States of America",FALSE
+58171,2006,"alpine skiing","silver","FIN","Finland",FALSE
+58171,2006,"alpine skiing","bronze","SWE","Sweden",FALSE
+58171,2006,"alpine skiing","gold","AUT","Austria",FALSE
+58171,2006,"alpine skiing","silver","CRO","Croatia",FALSE
+58171,2006,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,2006,"alpine skiing","gold","CRO","Croatia",FALSE
+58171,2006,"alpine skiing","silver","AUT","Austria",FALSE
+58171,2006,"alpine skiing","bronze","SWE","Sweden",FALSE
+58171,2010,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,2010,"alpine skiing","silver","NOR","Norway",FALSE
+58171,2010,"alpine skiing","bronze","USA","United States of America",FALSE
+58171,2010,"alpine skiing","gold","ITA","Italy",FALSE
+58171,2010,"alpine skiing","silver","CRO","Croatia",FALSE
+58171,2010,"alpine skiing","bronze","SWE","Sweden",FALSE
+58171,2010,"alpine skiing","gold","SUI","Switzerland",FALSE
+58171,2010,"alpine skiing","silver","NOR","Norway",FALSE
+58171,2010,"alpine skiing","bronze","NOR","Norway",FALSE
+58171,2010,"alpine skiing","gold","NOR","Norway",FALSE
+58171,2010,"alpine skiing","silver","USA","United States of America",FALSE
+58171,2010,"alpine skiing","bronze","USA","United States of America",FALSE
+58171,2010,"alpine skiing","gold","USA","United States of America",FALSE
+58171,2010,"alpine skiing","silver","CRO","Croatia",FALSE
+58171,2010,"alpine skiing","bronze","SUI","Switzerland",FALSE
+58171,2010,"alpine skiing","gold","USA","United States of America",FALSE
+58171,2010,"alpine skiing","silver","USA","United States of America",FALSE
+58171,2010,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,2010,"alpine skiing","gold","GER","Germany",FALSE
+58171,2010,"alpine skiing","silver","AUT","Austria",FALSE
+58171,2010,"alpine skiing","bronze","CZE","Czech Republic",FALSE
+58171,2010,"alpine skiing","gold","GER","Germany",FALSE
+58171,2010,"alpine skiing","silver","SLO","Slovenia",FALSE
+58171,2010,"alpine skiing","bronze","AUT","Austria",FALSE
+58171,2010,"alpine skiing","gold","AUT","Austria",FALSE
+58171,2010,"alpine skiing","silver","SLO","Slovenia",FALSE
+58171,2010,"alpine skiing","bronze","USA","United States of America",FALSE
+58171,2010,"alpine skiing","gold","GER","Germany",FALSE
+58171,2010,"alpine skiing","silver","USA","United States of America",FALSE
+58171,2010,"alpine skiing","bronze","SWE","Sweden",FALSE
+31896,1992,"freestyle skiing","gold","FRA","France",TRUE
+31896,1992,"freestyle skiing","silver","NOR","Norway",FALSE
+31896,1992,"freestyle skiing","bronze","USA","United States of America",FALSE
+31896,1992,"freestyle skiing","gold","FRA","France",TRUE
+31896,1992,"freestyle skiing","silver","FRA","France",TRUE
+31896,1992,"freestyle skiing","bronze","USA","United States of America",FALSE
+31896,1992,"freestyle skiing","gold","CAN","Canada",FALSE
+31896,1992,"freestyle skiing","silver","CAN","Canada",FALSE
+31896,1992,"freestyle skiing","bronze","FRA","France",TRUE
+31896,1992,"freestyle skiing","gold","SUI","Switzerland",FALSE
+31896,1992,"freestyle skiing","silver","FRA","France",TRUE
+31896,1992,"freestyle skiing","bronze","USA","United States of America",FALSE
+31896,1992,"freestyle skiing","gold","USA","United States of America",FALSE
+31896,1992,"freestyle skiing","silver","EUN","Unified Team (ex USSR)",FALSE
+31896,1992,"freestyle skiing","bronze","NOR","Norway",FALSE
+31896,1992,"freestyle skiing","gold","SUI","Switzerland",FALSE
+31896,1992,"freestyle skiing","silver","SWE","Sweden",FALSE
+31896,1992,"freestyle skiing","bronze","GER","Germany",FALSE
+31896,1994,"freestyle skiing","gold","CAN","Canada",FALSE
+31896,1994,"freestyle skiing","silver","RUS","Russian Federation",FALSE
+31896,1994,"freestyle skiing","bronze","FRA","France",FALSE
+31896,1994,"freestyle skiing","gold","SUI","Switzerland",FALSE
+31896,1994,"freestyle skiing","silver","CAN","Canada",FALSE
+31896,1994,"freestyle skiing","bronze","CAN","Canada",FALSE
+31896,1994,"freestyle skiing","gold","NOR","Norway",TRUE
+31896,1994,"freestyle skiing","silver","USA","United States of America",FALSE
+31896,1994,"freestyle skiing","bronze","RUS","Russian Federation",FALSE
+31896,1994,"freestyle skiing","gold","UZB","Uzbekistan",FALSE
+31896,1994,"freestyle skiing","silver","SWE","Sweden",FALSE
+31896,1994,"freestyle skiing","bronze","NOR","Norway",TRUE
+31896,1998,"freestyle skiing","gold","USA","United States of America",FALSE
+31896,1998,"freestyle skiing","silver","FIN","Finland",FALSE
+31896,1998,"freestyle skiing","bronze","FIN","Finland",FALSE
+31896,1998,"freestyle skiing","gold","USA","United States of America",FALSE
+31896,1998,"freestyle skiing","silver","FRA","France",FALSE
+31896,1998,"freestyle skiing","bronze","BLR","Belarus",FALSE
+31896,1998,"freestyle skiing","gold","JPN","Japan",TRUE
+31896,1998,"freestyle skiing","silver","GER","Germany",FALSE
+31896,1998,"freestyle skiing","bronze","NOR","Norway",FALSE
+31896,1998,"freestyle skiing","gold","USA","United States of America",FALSE
+31896,1998,"freestyle skiing","silver","CHN","People's Republic of China",FALSE
+31896,1998,"freestyle skiing","bronze","SUI","Switzerland",FALSE
+31896,2002,"freestyle skiing","gold","FIN","Finland",FALSE
+31896,2002,"freestyle skiing","silver","USA","United States of America",TRUE
+31896,2002,"freestyle skiing","bronze","FRA","France",FALSE
+31896,2002,"freestyle skiing","gold","CZE","Czech Republic",FALSE
+31896,2002,"freestyle skiing","silver","USA","United States of America",TRUE
+31896,2002,"freestyle skiing","bronze","BLR","Belarus",FALSE
+31896,2002,"freestyle skiing","gold","NOR","Norway",FALSE
+31896,2002,"freestyle skiing","silver","USA","United States of America",TRUE
+31896,2002,"freestyle skiing","bronze","JPN","Japan",FALSE
+31896,2002,"freestyle skiing","gold","AUS","Australia",FALSE
+31896,2002,"freestyle skiing","silver","CAN","Canada",FALSE
+31896,2002,"freestyle skiing","bronze","CAN","Canada",FALSE
+31896,2006,"freestyle skiing","gold","AUS","Australia",FALSE
+31896,2006,"freestyle skiing","silver","FIN","Finland",FALSE
+31896,2006,"freestyle skiing","bronze","USA","United States of America",FALSE
+31896,2006,"freestyle skiing","gold","CHN","People's Republic of China",FALSE
+31896,2006,"freestyle skiing","silver","BLR","Belarus",FALSE
+31896,2006,"freestyle skiing","bronze","RUS","Russian Federation",FALSE
+31896,2006,"freestyle skiing","gold","CAN","Canada",FALSE
+31896,2006,"freestyle skiing","silver","NOR","Norway",FALSE
+31896,2006,"freestyle skiing","bronze","FRA","France",FALSE
+31896,2006,"freestyle skiing","gold","SUI","Switzerland",FALSE
+31896,2006,"freestyle skiing","silver","CHN","People's Republic of China",FALSE
+31896,2006,"freestyle skiing","bronze","AUS","Australia",FALSE
+31896,2010,"freestyle skiing","gold","CAN","Canada",TRUE
+31896,2010,"freestyle skiing","silver","AUS","Australia",FALSE
+31896,2010,"freestyle skiing","bronze","USA","United States of America",FALSE
+31896,2010,"freestyle skiing","gold","BLR","Belarus",FALSE
+31896,2010,"freestyle skiing","silver","USA","United States of America",FALSE
+31896,2010,"freestyle skiing","bronze","CHN","People's Republic of China",FALSE
+31896,2010,"freestyle skiing","gold","SUI","Switzerland",FALSE
+31896,2010,"freestyle skiing","silver","AUT","Austria",FALSE
+31896,2010,"freestyle skiing","bronze","NOR","Norway",FALSE
+31896,2010,"freestyle skiing","gold","USA","United States of America",FALSE
+31896,2010,"freestyle skiing","silver","CAN","Canada",TRUE
+31896,2010,"freestyle skiing","bronze","USA","United States of America",FALSE
+31896,2010,"freestyle skiing","gold","AUS","Australia",FALSE
+31896,2010,"freestyle skiing","silver","CHN","People's Republic of China",FALSE
+31896,2010,"freestyle skiing","bronze","CHN","People's Republic of China",FALSE
+31896,2010,"freestyle skiing","gold","CAN","Canada",TRUE
+31896,2010,"freestyle skiing","silver","NOR","Norway",FALSE
+31896,2010,"freestyle skiing","bronze","FRA","France",FALSE
+32503,1964,"luge","gold","GER","United Team of Germany (1956,1960,1964)",FALSE
+32503,1964,"luge","silver","GER","United Team of Germany (1956,1960,1964)",FALSE
+32503,1964,"luge","bronze","GER","United Team of Germany (1956,1960,1964)",FALSE
+32503,1964,"luge","gold","AUT","Austria",TRUE
+32503,1964,"luge","silver","AUT","Austria",TRUE
+32503,1964,"luge","bronze","ITA","Italy",FALSE
+32503,1964,"luge","gold","GER","United Team of Germany (1956,1960,1964)",FALSE
+32503,1964,"luge","silver","GER","United Team of Germany (1956,1960,1964)",FALSE
+32503,1964,"luge","bronze","AUT","Austria",TRUE
+32503,1968,"luge","gold","AUT","Austria",FALSE
+32503,1968,"luge","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1968,"luge","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1968,"luge","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1968,"luge","silver","AUT","Austria",FALSE
+32503,1968,"luge","bronze","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+32503,1968,"luge","gold","ITA","Italy",FALSE
+32503,1968,"luge","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+32503,1968,"luge","bronze","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+32503,1972,"luge","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1972,"luge","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1972,"luge","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1972,"luge","gold","ITA","Italy",FALSE
+32503,1972,"luge","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1972,"luge","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1972,"luge","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1972,"luge","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1972,"luge","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1976,"luge","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1976,"luge","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+32503,1976,"luge","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1976,"luge","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1976,"luge","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+32503,1976,"luge","bronze","AUT","Austria",TRUE
+32503,1976,"luge","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1976,"luge","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1976,"luge","bronze","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+32503,1980,"luge","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1980,"luge","silver","ITA","Italy",FALSE
+32503,1980,"luge","bronze","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+32503,1980,"luge","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1980,"luge","silver","ITA","Italy",FALSE
+32503,1980,"luge","bronze","AUT","Austria",FALSE
+32503,1980,"luge","gold","URS","USSR",FALSE
+32503,1980,"luge","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1980,"luge","bronze","URS","USSR",FALSE
+32503,1984,"luge","gold","ITA","Italy",FALSE
+32503,1984,"luge","silver","URS","USSR",FALSE
+32503,1984,"luge","bronze","URS","USSR",FALSE
+32503,1984,"luge","gold","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+32503,1984,"luge","silver","URS","USSR",FALSE
+32503,1984,"luge","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1984,"luge","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1984,"luge","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1984,"luge","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1988,"luge","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1988,"luge","silver","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+32503,1988,"luge","bronze","URS","USSR",FALSE
+32503,1988,"luge","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1988,"luge","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1988,"luge","bronze","GER","Federal Republic of Germany (1950-1990, &quot;GER&quot; since) ",FALSE
+32503,1988,"luge","gold","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1988,"luge","silver","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1988,"luge","bronze","GER","German Democratic Republic (1955-1990, ",FALSE
+32503,1992,"luge","gold","GER","Germany",FALSE
+32503,1992,"luge","silver","AUT","Austria",FALSE
+32503,1992,"luge","bronze","AUT","Austria",FALSE
+32503,1992,"luge","gold","GER","Germany",FALSE
+32503,1992,"luge","silver","GER","Germany",FALSE
+32503,1992,"luge","bronze","ITA","Italy",FALSE
+32503,1992,"luge","gold","AUT","Austria",FALSE
+32503,1992,"luge","silver","AUT","Austria",FALSE
+32503,1992,"luge","bronze","GER","Germany",FALSE
+32503,1994,"luge","gold","GER","Germany",FALSE
+32503,1994,"luge","silver","AUT","Austria",FALSE
+32503,1994,"luge","bronze","ITA","Italy",FALSE
+32503,1994,"luge","gold","ITA","Italy",FALSE
+32503,1994,"luge","silver","ITA","Italy",FALSE
+32503,1994,"luge","bronze","GER","Germany",FALSE
+32503,1994,"luge","gold","ITA","Italy",FALSE
+32503,1994,"luge","silver","GER","Germany",FALSE
+32503,1994,"luge","bronze","AUT","Austria",FALSE
+32503,1998,"luge","gold","GER","Germany",FALSE
+32503,1998,"luge","silver","ITA","Italy",FALSE
+32503,1998,"luge","bronze","GER","Germany",FALSE
+32503,1998,"luge","gold","GER","Germany",FALSE
+32503,1998,"luge","silver","USA","United States of America",FALSE
+32503,1998,"luge","bronze","USA","United States of America",FALSE
+32503,1998,"luge","gold","GER","Germany",FALSE
+32503,1998,"luge","silver","GER","Germany",FALSE
+32503,1998,"luge","bronze","AUT","Austria",FALSE
+32503,2002,"luge","gold","ITA","Italy",FALSE
+32503,2002,"luge","silver","GER","Germany",FALSE
+32503,2002,"luge","bronze","AUT","Austria",FALSE
+32503,2002,"luge","gold","GER","Germany",FALSE
+32503,2002,"luge","silver","USA","United States of America",TRUE
+32503,2002,"luge","bronze","USA","United States of America",TRUE
+32503,2002,"luge","gold","GER","Germany",FALSE
+32503,2002,"luge","silver","GER","Germany",FALSE
+32503,2002,"luge","bronze","GER","Germany",FALSE
+32503,2006,"luge","gold","ITA","Italy",TRUE
+32503,2006,"luge","silver","RUS","Russian Federation",FALSE
+32503,2006,"luge","bronze","LAT","Latvia",FALSE
+32503,2006,"luge","gold","AUT","Austria",FALSE
+32503,2006,"luge","silver","GER","Germany",FALSE
+32503,2006,"luge","bronze","ITA","Italy",TRUE
+32503,2006,"luge","gold","GER","Germany",FALSE
+32503,2006,"luge","silver","GER","Germany",FALSE
+32503,2006,"luge","bronze","GER","Germany",FALSE
+32503,2010,"luge","gold","GER","Germany",FALSE
+32503,2010,"luge","silver","GER","Germany",FALSE
+32503,2010,"luge","bronze","ITA","Italy",FALSE
+32503,2010,"luge","gold","AUT","Austria",FALSE
+32503,2010,"luge","silver","LAT","Latvia",FALSE
+32503,2010,"luge","bronze","GER","Germany",FALSE
+32503,2010,"luge","gold","GER","Germany",FALSE
+32503,2010,"luge","silver","AUT","Austria",FALSE
+32503,2010,"luge","bronze","GER","Germany",FALSE
+31821,1992,"short track","gold","KOR","Republic of Korea",FALSE
+31821,1992,"short track","silver","CAN","Canada",FALSE
+31821,1992,"short track","bronze","KOR","Republic of Korea",FALSE
+31821,1992,"short track","gold","KOR","Republic of Korea",FALSE
+31821,1992,"short track","silver","CAN","Canada",FALSE
+31821,1992,"short track","bronze","JPN","Japan",FALSE
+31821,1992,"short track","gold","USA","United States of America",FALSE
+31821,1992,"short track","silver","CHN","People's Republic of China",FALSE
+31821,1992,"short track","bronze","PRK","Democratic People's Republic of Korea",FALSE
+31821,1992,"short track","gold","CAN","Canada",FALSE
+31821,1992,"short track","silver","USA","United States of America",FALSE
+31821,1992,"short track","bronze","EUN","Unified Team (ex USSR)",FALSE
+31821,1994,"short track","gold","KOR","Republic of Korea",FALSE
+31821,1994,"short track","silver","ITA","Italy",FALSE
+31821,1994,"short track","bronze","GBR","Great Britain",FALSE
+31821,1994,"short track","gold","KOR","Republic of Korea",FALSE
+31821,1994,"short track","silver","KOR","Republic of Korea",FALSE
+31821,1994,"short track","bronze","CAN","Canada",FALSE
+31821,1994,"short track","gold","ITA","Italy",FALSE
+31821,1994,"short track","silver","USA","United States of America",FALSE
+31821,1994,"short track","bronze","AUS","Australia",FALSE
+31821,1994,"short track","gold","USA","United States of America",FALSE
+31821,1994,"short track","silver","CHN","People's Republic of China",FALSE
+31821,1994,"short track","bronze","USA","United States of America",FALSE
+31821,1994,"short track","gold","KOR","Republic of Korea",FALSE
+31821,1994,"short track","silver","CAN","Canada",FALSE
+31821,1994,"short track","bronze","KOR","Republic of Korea",FALSE
+31821,1994,"short track","gold","KOR","Republic of Korea",FALSE
+31821,1994,"short track","silver","CAN","Canada",FALSE
+31821,1994,"short track","bronze","USA","United States of America",FALSE
+31821,1998,"short track","gold","JPN","Japan",TRUE
+31821,1998,"short track","silver","CHN","People's Republic of China",FALSE
+31821,1998,"short track","bronze","JPN","Japan",TRUE
+31821,1998,"short track","gold","KOR","Republic of Korea",FALSE
+31821,1998,"short track","silver","CHN","People's Republic of China",FALSE
+31821,1998,"short track","bronze","CAN","Canada",FALSE
+31821,1998,"short track","gold","CAN","Canada",FALSE
+31821,1998,"short track","silver","KOR","Republic of Korea",FALSE
+31821,1998,"short track","bronze","CHN","People's Republic of China",FALSE
+31821,1998,"short track","gold","CAN","Canada",FALSE
+31821,1998,"short track","silver","CHN","People's Republic of China",FALSE
+31821,1998,"short track","bronze","KOR","Republic of Korea",FALSE
+31821,1998,"short track","gold","KOR","Republic of Korea",FALSE
+31821,1998,"short track","silver","CHN","People's Republic of China",FALSE
+31821,1998,"short track","bronze","KOR","Republic of Korea",FALSE
+31821,1998,"short track","gold","KOR","Republic of Korea",FALSE
+31821,1998,"short track","silver","CHN","People's Republic of China",FALSE
+31821,1998,"short track","bronze","CAN","Canada",FALSE
+31821,2002,"short track","gold","CAN","Canada",FALSE
+31821,2002,"short track","silver","CAN","Canada",FALSE
+31821,2002,"short track","bronze","USA","United States of America",TRUE
+31821,2002,"short track","gold","AUS","Australia",FALSE
+31821,2002,"short track","silver","USA","United States of America",TRUE
+31821,2002,"short track","bronze","CAN","Canada",FALSE
+31821,2002,"short track","gold","USA","United States of America",TRUE
+31821,2002,"short track","silver","CHN","People's Republic of China",FALSE
+31821,2002,"short track","bronze","CAN","Canada",FALSE
+31821,2002,"short track","gold","CAN","Canada",FALSE
+31821,2002,"short track","silver","ITA","Italy",FALSE
+31821,2002,"short track","bronze","CHN","People's Republic of China",FALSE
+31821,2002,"short track","gold","CHN","People's Republic of China",FALSE
+31821,2002,"short track","silver","BUL","Bulgaria",FALSE
+31821,2002,"short track","bronze","CHN","People's Republic of China",FALSE
+31821,2002,"short track","gold","CHN","People's Republic of China",FALSE
+31821,2002,"short track","silver","KOR","Republic of Korea",FALSE
+31821,2002,"short track","bronze","CHN","People's Republic of China",FALSE
+31821,2002,"short track","gold","KOR","Republic of Korea",FALSE
+31821,2002,"short track","silver","KOR","Republic of Korea",FALSE
+31821,2002,"short track","bronze","BUL","Bulgaria",FALSE
+31821,2002,"short track","gold","KOR","Republic of Korea",FALSE
+31821,2002,"short track","silver","CHN","People's Republic of China",FALSE
+31821,2002,"short track","bronze","CAN","Canada",FALSE
+31821,2006,"short track","gold","USA","United States of America",FALSE
+31821,2006,"short track","silver","CAN","Canada",FALSE
+31821,2006,"short track","bronze","KOR","Republic of Korea",FALSE
+31821,2006,"short track","gold","KOR","Republic of Korea",FALSE
+31821,2006,"short track","silver","KOR","Republic of Korea",FALSE
+31821,2006,"short track","bronze","USA","United States of America",FALSE
+31821,2006,"short track","gold","KOR","Republic of Korea",FALSE
+31821,2006,"short track","silver","KOR","Republic of Korea",FALSE
+31821,2006,"short track","bronze","CHN","People's Republic of China",FALSE
+31821,2006,"short track","gold","KOR","Republic of Korea",FALSE
+31821,2006,"short track","silver","CAN","Canada",FALSE
+31821,2006,"short track","bronze","USA","United States of America",FALSE
+31821,2006,"short track","gold","CHN","People's Republic of China",FALSE
+31821,2006,"short track","silver","BUL","Bulgaria",FALSE
+31821,2006,"short track","bronze","CAN","Canada",FALSE
+31821,2006,"short track","gold","KOR","Republic of Korea",FALSE
+31821,2006,"short track","silver","CHN","People's Republic of China",FALSE
+31821,2006,"short track","bronze","CHN","People's Republic of China",FALSE
+31821,2006,"short track","gold","KOR","Republic of Korea",FALSE
+31821,2006,"short track","silver","KOR","Republic of Korea",FALSE
+31821,2006,"short track","bronze","CHN","People's Republic of China",FALSE
+31821,2006,"short track","gold","KOR","Republic of Korea",FALSE
+31821,2006,"short track","silver","CAN","Canada",FALSE
+31821,2006,"short track","bronze","ITA","Italy",TRUE
+31821,2010,"short track","gold","CAN","Canada",TRUE
+31821,2010,"short track","silver","KOR","Republic of Korea",FALSE
+31821,2010,"short track","bronze","CAN","Canada",TRUE
+31821,2010,"short track","gold","KOR","Republic of Korea",FALSE
+31821,2010,"short track","silver","KOR","Republic of Korea",FALSE
+31821,2010,"short track","bronze","USA","United States of America",FALSE
+31821,2010,"short track","gold","KOR","Republic of Korea",FALSE
+31821,2010,"short track","silver","USA","United States of America",FALSE
+31821,2010,"short track","bronze","USA","United States of America",FALSE
+31821,2010,"short track","gold","CAN","Canada",TRUE
+31821,2010,"short track","silver","KOR","Republic of Korea",FALSE
+31821,2010,"short track","bronze","USA","United States of America",FALSE
+31821,2010,"short track","gold","CHN","People's Republic of China",FALSE
+31821,2010,"short track","silver","CAN","Canada",TRUE
+31821,2010,"short track","bronze","ITA","Italy",FALSE
+31821,2010,"short track","gold","CHN","People's Republic of China",FALSE
+31821,2010,"short track","silver","USA","United States of America",FALSE
+31821,2010,"short track","bronze","KOR","Republic of Korea",FALSE
+31821,2010,"short track","gold","CHN","People's Republic of China",FALSE
+31821,2010,"short track","silver","KOR","Republic of Korea",FALSE
+31821,2010,"short track","bronze","KOR","Republic of Korea",FALSE
+31821,2010,"short track","gold","CHN","People's Republic of China",FALSE
+31821,2010,"short track","silver","CAN","Canada",TRUE
+31821,2010,"short track","bronze","USA","United States of America",FALSE
+31698,1928,"skeleton","gold","USA","United States of America",FALSE
+31698,1928,"skeleton","silver","USA","United States of America",FALSE
+31698,1928,"skeleton","bronze","GBR","Great Britain",FALSE
+31698,1948,"skeleton","gold","ITA","Italy",FALSE
+31698,1948,"skeleton","silver","USA","United States of America",FALSE
+31698,1948,"skeleton","bronze","GBR","Great Britain",FALSE
+31698,2002,"skeleton","gold","USA","United States of America",TRUE
+31698,2002,"skeleton","silver","AUT","Austria",FALSE
+31698,2002,"skeleton","bronze","SUI","Switzerland",FALSE
+31698,2002,"skeleton","gold","USA","United States of America",TRUE
+31698,2002,"skeleton","silver","USA","United States of America",TRUE
+31698,2002,"skeleton","bronze","GBR","Great Britain",FALSE
+31698,2006,"skeleton","gold","CAN","Canada",FALSE
+31698,2006,"skeleton","silver","CAN","Canada",FALSE
+31698,2006,"skeleton","bronze","SUI","Switzerland",FALSE
+31698,2006,"skeleton","gold","SUI","Switzerland",FALSE
+31698,2006,"skeleton","silver","GBR","Great Britain",FALSE
+31698,2006,"skeleton","bronze","CAN","Canada",FALSE
+31698,2010,"skeleton","gold","CAN","Canada",TRUE
+31698,2010,"skeleton","silver","LAT","Latvia",FALSE
+31698,2010,"skeleton","bronze","RUS","Russian Federation",FALSE
+31698,2010,"skeleton","gold","GBR","Great Britain",FALSE
+31698,2010,"skeleton","silver","GER","Germany",FALSE
+31698,2010,"skeleton","bronze","GER","Germany",FALSE
+32514,1998,"snowboard","gold","CAN","Canada",FALSE
+32514,1998,"snowboard","silver","ITA","Italy",FALSE
+32514,1998,"snowboard","bronze","SUI","Switzerland",FALSE
+32514,1998,"snowboard","gold","SUI","Switzerland",FALSE
+32514,1998,"snowboard","silver","NOR","Norway",FALSE
+32514,1998,"snowboard","bronze","USA","United States of America",FALSE
+32514,1998,"snowboard","gold","FRA","France",FALSE
+32514,1998,"snowboard","silver","GER","Germany",FALSE
+32514,1998,"snowboard","bronze","AUT","Austria",FALSE
+32514,1998,"snowboard","gold","GER","Germany",FALSE
+32514,1998,"snowboard","silver","NOR","Norway",FALSE
+32514,1998,"snowboard","bronze","USA","United States of America",FALSE
+32514,2002,"snowboard","gold","USA","United States of America",TRUE
+32514,2002,"snowboard","silver","USA","United States of America",TRUE
+32514,2002,"snowboard","bronze","USA","United States of America",TRUE
+32514,2002,"snowboard","gold","SUI","Switzerland",FALSE
+32514,2002,"snowboard","silver","SWE","Sweden",FALSE
+32514,2002,"snowboard","bronze","USA","United States of America",TRUE
+32514,2002,"snowboard","gold","USA","United States of America",TRUE
+32514,2002,"snowboard","silver","FRA","France",FALSE
+32514,2002,"snowboard","bronze","SUI","Switzerland",FALSE
+32514,2002,"snowboard","gold","FRA","France",FALSE
+32514,2002,"snowboard","silver","FRA","France",FALSE
+32514,2002,"snowboard","bronze","ITA","Italy",FALSE
+32514,2006,"snowboard","gold","USA","United States of America",FALSE
+32514,2006,"snowboard","silver","USA","United States of America",FALSE
+32514,2006,"snowboard","bronze","FIN","Finland",FALSE
+32514,2006,"snowboard","gold","SUI","Switzerland",FALSE
+32514,2006,"snowboard","silver","SUI","Switzerland",FALSE
+32514,2006,"snowboard","bronze","AUT","Austria",FALSE
+32514,2006,"snowboard","gold","USA","United States of America",FALSE
+32514,2006,"snowboard","silver","SVK","Slovakia",FALSE
+32514,2006,"snowboard","bronze","FRA","France",FALSE
+32514,2006,"snowboard","gold","USA","United States of America",FALSE
+32514,2006,"snowboard","silver","USA","United States of America",FALSE
+32514,2006,"snowboard","bronze","NOR","Norway",FALSE
+32514,2006,"snowboard","gold","SUI","Switzerland",FALSE
+32514,2006,"snowboard","silver","GER","Germany",FALSE
+32514,2006,"snowboard","bronze","USA","United States of America",FALSE
+32514,2006,"snowboard","gold","SUI","Switzerland",FALSE
+32514,2006,"snowboard","silver","USA","United States of America",FALSE
+32514,2006,"snowboard","bronze","CAN","Canada",FALSE
+32514,2010,"snowboard","gold","USA","United States of America",FALSE
+32514,2010,"snowboard","silver","FIN","Finland",FALSE
+32514,2010,"snowboard","bronze","USA","United States of America",FALSE
+32514,2010,"snowboard","gold","CAN","Canada",TRUE
+32514,2010,"snowboard","silver","AUT","Austria",FALSE
+32514,2010,"snowboard","bronze","FRA","France",FALSE
+32514,2010,"snowboard","gold","USA","United States of America",FALSE
+32514,2010,"snowboard","silver","CAN","Canada",TRUE
+32514,2010,"snowboard","bronze","FRA","France",FALSE
+32514,2010,"snowboard","gold","AUS","Australia",FALSE
+32514,2010,"snowboard","silver","USA","United States of America",FALSE
+32514,2010,"snowboard","bronze","USA","United States of America",FALSE
+32514,2010,"snowboard","gold","NED","Netherlands",FALSE
+32514,2010,"snowboard","silver","RUS","Russian Federation",FALSE
+32514,2010,"snowboard","bronze","AUT","Austria",FALSE
+32514,2010,"snowboard","gold","CAN","Canada",TRUE
+32514,2010,"snowboard","silver","FRA","France",FALSE
+32514,2010,"snowboard","bronze","SUI","Switzerland",FALSE
