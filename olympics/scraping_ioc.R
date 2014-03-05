@@ -1,3 +1,4 @@
+library("XML")
 year  <- c(1924,1928,1932,1936,seq(1948,1992,by = 4),seq(1994,2010,by=4))
 sport  <- c("biathlon" = 31666, "bobsleigh" = 31688, "cross country" = 31872, "figure skating" = 31759, "ice hockey" = 31910, "nordic combined" = 31911, "ski jumping" = 32498, "speed skating" = 31853, "curling" = 31704, "alpine skiing" = 58171, "freestyle skiing" = 31896, "luge" = 32503, "short track" = 31821, "skeleton" = 31698, "snowboard" = 32514)
 length(sport)
