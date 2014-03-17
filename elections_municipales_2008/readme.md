@@ -4,9 +4,10 @@
 
 ## Corrections
 * Le fichier source comprenait plusieurs anomalies. 
-* Dans l'onglet "Tour 1", la cellule 1516:BW était vide. Elle a été supprimer et les cellules suivantes ont été décalées vers la gauche.
+* Dans l'onglet « Tour 1 », la cellule 1516:BW était vide. Elle a été supprimer et les cellules suivantes ont été décalées vers la gauche.
 * Idem pour la cellule 488:AD dans l'onglet "Tour 2"
-* Dans l'onglet "Tour 2", les colonnes au delà de la colonne BW ont été supprimées. Elles n'avaient pas de libellé et ne correspondaient à rien. 
+* Dans l'onglet « Tour 2 », les colonnes au delà de la colonne BW ont été supprimées. Elles n'avaient pas de libellé et ne correspondaient à rien. 
+* Par ailleurs dans de nombreuses lignes, plusieurs cellules étaient mal séparées. 
 
 ## Code nuance
 * LAUT : Autres 
