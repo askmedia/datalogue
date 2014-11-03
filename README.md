@@ -10,6 +10,11 @@ Catalogue des données que nous avons utilisées
 		* [coordonnes_communes.csv](communes/coordonnes_communes.csv) donne la latitude et la longitude de toutes les communes de France. Le fichier a été obtenu à partir du fichier [ Correspondance entre les codes postaux et codes INSEE des communes Françaises](https://www.data.gouv.fr/fr/dataset/correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises) publié par OpenDataSoft.
 		* [data_coordonnees.R](communes/data_coordonnees.R) est le programme R qui permet d'obtenir le fichier coordonnes_communes.csv.
 
+* [La dépense publique dérape-t-elle ?](http://www.parismatch.com/Actu/Politique/Datamatch-La-depense-publique-derape-t-elle-549981)
+	* DataMatch
+	* février 2014
+	* [data](depenses_publiques/readme.md)  
+
 * [Cannes : La palme d'or est-elle la poule aux œufs d'or ?](http://www.parismatch.com/Actu/Economie/Datamatch-Cannes-La-palme-d-or-est-elle-la-poule-aux-oeufs-d-or-564797)
 	* DataMatch
 	* mai 2014
