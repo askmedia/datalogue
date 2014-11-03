@@ -31,3 +31,6 @@ Catalogue des données que nous avons utilisées
 	* data : 
 		* [Données représentées](desertsmedicaux/data.csv)
 	* sources : 
+		* [La démographie des médecins](https://www.data.gouv.fr/fr/datasets/la-demographie-des-medecins-rpps/) (Drees)
+		* [Estimation de la population au 1er janvier par région, département (1975-2013), sexe et âge (quinquennal, classes d'âge)](http://www.insee.fr/fr/themes/detail.asp?ref_id=estim-pop&reg_id=99) (Insee)
+	
