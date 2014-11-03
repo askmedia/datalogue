@@ -25,3 +25,9 @@ Catalogue des données que nous avons utilisées
 	* sources : [Indice des prix à la consommation harmonisé](http://www.bdm.insee.fr/bdm2/choixCriteres.action?codeGroupe=158)
 		
 			
+* [Les déserts médicaux vont ils disparaître ?](http://www.parismatch.com/Actu/Societe/DataMatch-Les-deserts-medicaux-vont-ils-disparaitre-644798)
+	* DataMatch
+	* date : octobre 2014
+	* data : 
+		* [Données représentées](desertsmedicaux/data.csv)
+	* sources : 
